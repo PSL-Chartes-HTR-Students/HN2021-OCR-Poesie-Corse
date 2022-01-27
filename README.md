@@ -1,11 +1,11 @@
 # Projet d'OCR d'une poésie corse
 
-L'objectif de ce travail est d'océriser un receuil de poème corse d'une vingtaine de pages.
-Il s'agit du devoir dans le cadre du cours de Thibault Clérice réalisé par :
+L'objectif de ce travail est d'océriser un receuil de poème corse d'une quarantaine de pages.
+Il s'agit d'un devoir réalisé dans le cadre du cours de Thibault Clérice réalisé par :
 - Vincent Sarbach-Pulicani
 - Théophile Miaille
 - Adrien Escoda
-- Violette Saiag
+- Violette Saïag
 
 # Description des oeuvres
 
@@ -18,7 +18,7 @@ C'est dans ce contexte de lutte politique et d'éveil culturel corse que s'inscr
 Le second ouvrage s'intitule *A nostra Santa Fede - Catechismu Corsu*, écrit par Ageniu Grimaldi en 1926 sous le pseudonyme de Saveriu Malaspina.
 Proche de Petru Rocca, ce-dernier est l'un des théoriciens de l'autonomisme corse de l'entre-deux-guerres et fidèle muvriste.
 Dans l'ouvrage, il est fait mention notamment de la façon dont un vrai corse doit se comproter vis-à-vis de sa foi envers Dieu et son île.
-Bien qu'il ne s'agisse pas réellement d'un recueil de poèmes, le style d'écriture de cet ouvrage est particulièrement intéressant, reprennant un style se rapprochant des écrits bibliques.
+Bien qu'il ne s'agisse pas réellement d'un recueil de poèmes, le style d'écriture de cet ouvrage est particulièrement intéressant. Il reprend un style qui se rapproche des écrits bibliques.
 
 
 Alors que le premier ouvrage a été trouvé sur `gallica`, le second a été téléchargé depuis la plateforme `bucullezzione` de l'Università di Corsica Pasquale Paoli. 
