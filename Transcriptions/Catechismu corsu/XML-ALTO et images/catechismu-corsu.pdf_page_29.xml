@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_29.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1783"
+          HEIGHT="2958"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1783"
+                  HEIGHT="2958">
+        
+        <TextBlock HPOS="246"
+                   VPOS="463"
+                   WIDTH="1033"
+                   HEIGHT="2019"
+                   ID="eSc_textblock_b37dfdb2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="276 463 1270 483 1270 825 1045 855 1013 897 1045 956 1270 966 1270 1269 1055 1289 974 1340 1035 1390 1240 1380 1279 1409 1270 2482 256 2462 256 1469 286 1407 256 1045 295 993 256 798 295 729 256 697 246 532 276 463"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_26cd7791"
+                    
+                    BASELINE="261 515 1262 522" 
+                    HPOS="256"
+                    VPOS="431"
+                    WIDTH="1006"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="261 515 258 446 584 431 586 431 586 431 589 431 631 441 648 446 683 441 739 433 739 433 742 433 742 433 742 433 744 433 744 433 747 433 759 441 771 448 877 441 909 438 912 438 912 438 912 438 914 438 914 438 914 438 917 441 942 451 1038 438 1067 436 1067 436 1070 436 1070 436 1072 436 1072 436 1072 436 1075 436 1075 436 1077 438 1092 448 1104 438 1104 438 1107 438 1107 438 1107 438 1107 438 1109 438 1109 438 1112 438 1260 438 1262 522 1257 537 256 522"/></Shape>
+	    <String CONTENT="veti e castagneti, Sionville chi fece"
+                    HPOS="256"
+                    VPOS="431"
+                    WIDTH="1006"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6763851"
+                    
+                    BASELINE="256 591 1255 591" 
+                    HPOS="254"
+                    VPOS="520"
+                    WIDTH="1001"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="256 591 258 525 288 534 303 525 308 520 310 520 310 520 310 520 313 520 313 520 315 520 436 520 436 520 436 520 478 527 530 537 584 529 616 525 616 525 618 525 618 525 618 525 621 525 638 529 665 537 683 529 710 520 710 520 712 520 712 520 712 520 715 520 715 520 717 520 717 520 717 520 742 532 754 539 969 539 976 534 996 520 998 520 998 520 998 520 1001 520 1001 520 1003 520 1159 520 1159 520 1159 520 1255 539 1255 591 1252 611 254 608"/></Shape>
+	    <String CONTENT="impiccà tre centu persone in Niôlu,"
+                    HPOS="254"
+                    VPOS="520"
+                    WIDTH="1001"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5c98562"
+                    
+                    BASELINE="258 660 1171 660" 
+                    HPOS="256"
+                    VPOS="591"
+                    WIDTH="917"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="258 660 261 591 300 603 387 594 404 591 404 591 406 591 406 591 406 591 409 591 409 591 414 594 438 603 525 594 569 591 569 591 572 591 572 591 599 596 641 603 683 598 725 591 725 591 727 591 727 591 727 591 729 591 757 598 776 606 900 606 902 601 912 594 912 591 912 591 914 591 914 591 914 591 917 591 917 591 917 591 919 591 1099 603 1104 603 1104 603 1124 591 1127 591 1127 591 1129 591 1129 591 1129 591 1131 591 1131 591 1134 591 1134 591 1173 606 1171 660 1168 680 256 675"/></Shape>
+	    <String CONTENT="e i generali Berthier e Morand."
+                    HPOS="256"
+                    VPOS="591"
+                    WIDTH="917"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b5e96eb"
+                    
+                    BASELINE="320 737 1262 737" 
+                    HPOS="318"
+                    VPOS="663"
+                    WIDTH="947"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="320 737 320 668 1151 675 1154 675 1210 663 1210 663 1210 663 1213 663 1213 663 1215 663 1265 677 1262 737 1260 751 318 746"/></Shape>
+	    <String CONTENT="Quale fù l’ultima insurrezione.?"
+                    HPOS="318"
+                    VPOS="663"
+                    WIDTH="947"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b23af1e0"
+                    
+                    BASELINE="315 803 1262 808" 
+                    HPOS="308"
+                    VPOS="741"
+                    WIDTH="954"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="315 803 315 741 1260 746 1262 808 1260 820 350 825 347 825 347 825 345 825 345 825 308 810"/></Shape>
+	    <String CONTENT="L’ultima insurrezione fù quella"
+                    HPOS="308"
+                    VPOS="741"
+                    WIDTH="954"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7336d760"
+                    
+                    BASELINE="256 877 924 877" 
+                    HPOS="254"
+                    VPOS="808"
+                    WIDTH="670"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="256 877 254 813 552 808 554 808 554 808 557 808 557 808 557 808 559 808 574 818 584 825 663 825 675 820 705 810 707 810 707 810 707 810 710 810 710 810 769 820 779 823 789 823 843 808 845 808 845 808 848 808 848 808 848 808 924 825 924 877 924 899 256 902"/></Shape>
+	    <String CONTENT="di Fiumorbu, n’u 1816."
+                    HPOS="254"
+                    VPOS="808"
+                    WIDTH="670"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7faeadf"
+                    
+                    BASELINE="315 958 974 958" 
+                    HPOS="313"
+                    VPOS="880"
+                    WIDTH="661"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="315 958 313 897 384 880 384 880 384 880 387 880 387 880 387 880 458 894 475 897 483 894 512 880 512 880 512 880 515 880 515 880 517 880 517 880 517 880 520 880 520 880 522 880 522 880 540 892 547 899 628 899 638 892 651 882 653 882 653 882 653 882 655 882 655 882 658 882 658 882 658 882 660 882 660 882 660 882 663 882 673 889 683 897 705 889 739 880 742 880 742 880 742 880 744 880 744 880 803 889 860 897 892 887 917 880 919 880 919 880 919 880 922 880 922 880 974 887 974 958 974 971 315 971"/></Shape>
+	    <String CONTENT="Cos&#39;eranu i Pinnuti ?"
+                    HPOS="313"
+                    VPOS="880"
+                    WIDTH="661"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_010d5fcc"
+                    
+                    BASELINE="320 1027 1267 1032" 
+                    HPOS="318"
+                    VPOS="946"
+                    WIDTH="949"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="320 1027 320 956 545 966 582 958 633 946 633 946 633 946 636 946 636 946 638 946 638 946 638 946 641 946 641 946 655 958 658 961 663 958 685 949 685 949 688 949 688 949 688 949 690 949 690 949 692 949 692 949 720 958 739 968 868 968 892 961 927 951 929 951 929 951 929 951 932 951 932 951 932 951 934 951 966 961 974 963 981 963 1033 949 1035 949 1035 949 1038 949 1225 949 1225 949 1225 949 1228 949 1228 949 1267 966 1267 1032 1265 1040 318 1045"/></Shape>
+	    <String CONTENT="I Pinnuti furmavanu ne l’anni"
+                    HPOS="318"
+                    VPOS="946"
+                    WIDTH="949"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0381485"
+                    
+                    BASELINE="263 1101 1260 1096" 
+                    HPOS="256"
+                    VPOS="1030"
+                    WIDTH="1004"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="263 1101 256 1055 303 1032 303 1032 305 1032 305 1032 305 1032 308 1032 308 1032 310 1032 374 1050 409 1032 409 1032 409 1032 411 1032 411 1032 411 1032 414 1032 611 1045 688 1050 729 1042 796 1030 796 1030 796 1030 799 1030 799 1030 799 1030 840 1040 873 1047 897 1037 919 1030 919 1030 922 1030 922 1030 922 1030 924 1030 1018 1035 1205 1047 1250 1030 1260 1096 1257 1109 263 1114"/></Shape>
+	    <String CONTENT="1820-1848 una sucietà segreta di car¬"
+                    HPOS="256"
+                    VPOS="1030"
+                    WIDTH="1004"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff448fff"
+                    
+                    BASELINE="261 1168 1265 1175" 
+                    HPOS="258"
+                    VPOS="1091"
+                    WIDTH="1007"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="261 1168 261 1099 623 1111 655 1094 658 1094 658 1094 658 1094 660 1094 660 1094 660 1094 1262 1091 1265 1175 1260 1197 927 1185 258 1190"/></Shape>
+	    <String CONTENT="bonari corsi. Eranu più di dece mila"
+                    HPOS="258"
+                    VPOS="1091"
+                    WIDTH="1007"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_068c8b2a"
+                    
+                    BASELINE="258 1239 1260 1244" 
+                    HPOS="256"
+                    VPOS="1190"
+                    WIDTH="1004"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="258 1239 258 1190 1257 1195 1260 1244 1257 1254 256 1262"/></Shape>
+	    <String CONTENT="e avivanu der scopu di participà a"
+                    HPOS="256"
+                    VPOS="1190"
+                    WIDTH="1004"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86a5e237"
+                    
+                    BASELINE="261 1311 937 1316" 
+                    HPOS="256"
+                    VPOS="1252"
+                    WIDTH="681"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="261 1311 258 1262 848 1252 850 1252 850 1252 934 1267 937 1316 932 1328 256 1321"/></Shape>
+	    <String CONTENT="u risorgimentu italianu."
+                    HPOS="256"
+                    VPOS="1252"
+                    WIDTH="681"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd89160"
+                    
+                    BASELINE="320 1390 919 1390" 
+                    HPOS="315"
+                    VPOS="1321"
+                    WIDTH="604"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="320 1390 320 1321 389 1333 490 1323 532 1321 535 1321 919 1336 919 1390 919 1405 355 1417 352 1417 352 1417 350 1417 350 1417 315 1402"/></Shape>
+	    <String CONTENT="Cosa ci fù n’u 1870 ?"
+                    HPOS="315"
+                    VPOS="1321"
+                    WIDTH="604"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2f05081"
+                    
+                    BASELINE="318 1459 1265 1464" 
+                    HPOS="315"
+                    VPOS="1387"
+                    WIDTH="950"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="318 1459 318 1390 436 1407 478 1390 488 1387 488 1387 490 1387 490 1387 490 1387 493 1387 493 1387 495 1387 510 1392 569 1407 771 1395 786 1395 789 1395 789 1395 789 1395 791 1395 791 1395 794 1395 826 1409 924 1397 927 1397 927 1397 929 1397 929 1397 934 1397 1016 1409 1080 1400 1134 1390 1134 1390 1136 1390 1136 1390 1265 1402 1265 1464 1262 1481 315 1481"/></Shape>
+	    <String CONTENT="In quell’annu, dòpu a sunfitta di"
+                    HPOS="315"
+                    VPOS="1387"
+                    WIDTH="950"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bbbe91a"
+                    
+                    BASELINE="261 1528 1265 1533" 
+                    HPOS="256"
+                    VPOS="1466"
+                    WIDTH="1009"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="261 1528 256 1479 298 1466 300 1466 300 1466 303 1466 303 1466 303 1466 305 1466 305 1466 308 1466 325 1479 330 1481 510 1481 512 1479 559 1466 562 1466 562 1466 562 1466 564 1466 722 1479 757 1466 757 1466 759 1466 759 1466 759 1466 762 1466 762 1466 855 1481 865 1481 873 1481 927 1469 927 1469 927 1469 929 1469 1262 1483 1265 1533 1260 1555 256 1540"/></Shape>
+	    <String CONTENT="Sedan, a Corsica fù martirizzata cun"
+                    HPOS="256"
+                    VPOS="1466"
+                    WIDTH="1009"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5341bf9"
+                    
+                    BASELINE="263 1599 1023 1609" 
+                    HPOS="261"
+                    VPOS="1538"
+                    WIDTH="762"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="263 1599 263 1538 919 1552 1018 1543 1023 1609 1018 1631 821 1617 688 1629 670 1629 670 1629 668 1629 668 1629 665 1629 660 1629 611 1614 572 1626 572 1626 569 1626 569 1626 569 1626 567 1626 567 1626 562 1626 490 1614 261 1621"/></Shape>
+	    <String CONTENT="ingiurie e persecuzione. (9)"
+                    HPOS="261"
+                    VPOS="1538"
+                    WIDTH="762"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f50689e3"
+                    
+                    BASELINE="323 1681 1270 1681" 
+                    HPOS="318"
+                    VPOS="1619"
+                    WIDTH="952"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="323 1681 323 1619 406 1631 456 1619 458 1619 461 1619 461 1619 463 1619 463 1619 463 1619 466 1619 468 1619 508 1631 552 1619 557 1619 559 1619 559 1619 562 1619 562 1619 562 1619 564 1619 569 1619 611 1631 737 1621 774 1619 776 1619 776 1619 776 1619 796 1621 848 1631 860 1621 863 1619 863 1619 865 1619 865 1619 868 1619 868 1619 868 1619 870 1619 870 1619 902 1621 971 1631 1013 1624 1038 1619 1038 1619 1038 1619 1040 1619 1040 1619 1043 1619 1043 1619 1055 1624 1075 1631 1267 1626 1270 1681 1267 1705 707 1693 700 1698 688 1705 685 1705 685 1705 685 1705 683 1705 683 1705 680 1705 680 1705 680 1705 636 1695 618 1693 599 1695 527 1705 527 1705 525 1705 525 1705 406 1693 406 1693 406 1693 352 1705 350 1705 350 1705 347 1705 347 1705 347 1705 345 1705 345 1705 345 1705 318 1690"/></Shape>
+	    <String CONTENT="Quale fù u ministru francese"
+                    HPOS="318"
+                    VPOS="1619"
+                    WIDTH="952"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b783049e"
+                    
+                    BASELINE="258 1745 1265 1752" 
+                    HPOS="254"
+                    VPOS="1683"
+                    WIDTH="1011"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="258 1745 258 1686 771 1698 838 1686 850 1683 850 1683 853 1683 853 1683 853 1683 865 1686 939 1703 1023 1703 1040 1686 1040 1686 1043 1686 1043 1686 1043 1686 1043 1686 1045 1686 1045 1686 1048 1686 1048 1686 1050 1686 1205 1700 1260 1686 1265 1752 1262 1762 932 1774 929 1774 254 1757"/></Shape>
+	    <String CONTENT="chi dumandede u ritornu d’a Cor¬"
+                    HPOS="254"
+                    VPOS="1683"
+                    WIDTH="1011"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_782a0b4d"
+                    
+                    BASELINE="263 1821 707 1816" 
+                    HPOS="256"
+                    VPOS="1750"
+                    WIDTH="451"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="263 1821 256 1774 313 1752 313 1752 315 1752 315 1752 318 1752 318 1752 318 1752 320 1752 320 1752 360 1769 480 1750 480 1750 480 1750 483 1750 702 1767 707 1816 707 1826 263 1841"/></Shape>
+	    <String CONTENT="sica a l’Italia ?"
+                    HPOS="256"
+                    VPOS="1750"
+                    WIDTH="451"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ee4ebda"
+                    
+                    BASELINE="323 1888 1257 1898" 
+                    HPOS="318"
+                    VPOS="1821"
+                    WIDTH="939"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="323 1888 325 1821 384 1836 1255 1833 1257 1898 1252 1912 318 1895"/></Shape>
+	    <String CONTENT="Henri Rochefort chi fece u 15"
+                    HPOS="318"
+                    VPOS="1821"
+                    WIDTH="939"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5b0d420"
+                    
+                    BASELINE="263 1959 1262 1967" 
+                    HPOS="258"
+                    VPOS="1898"
+                    WIDTH="1007"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="263 1959 261 1912 473 1898 475 1898 475 1898 475 1898 478 1898 478 1898 480 1898 480 1898 500 1912 569 1902 569 1902 572 1902 572 1902 688 1915 702 1915 715 1915 905 1900 907 1900 907 1900 907 1900 909 1900 969 1917 971 1917 976 1917 1023 1902 1025 1902 1025 1902 1025 1902 1028 1902 1028 1902 1028 1902 1030 1902 1075 1917 1077 1917 1082 1917 1215 1902 1215 1902 1218 1902 1218 1902 1220 1902 1220 1902 1265 1920 1262 1967 1260 1976 951 1991 949 1991 949 1991 949 1991 946 1991 946 1991 914 1979 628 1989 626 1989 626 1989 623 1989 569 1974 564 1974 545 1974 327 1986 325 1986 325 1986 325 1986 258 1972"/></Shape>
+	    <String CONTENT="settembre 1870 a pruposta di resti¬"
+                    HPOS="258"
+                    VPOS="1898"
+                    WIDTH="1007"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b7a2f08"
+                    
+                    BASELINE="263 2031 912 2038" 
+                    HPOS="258"
+                    VPOS="1967"
+                    WIDTH="654"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="263 2031 261 1979 323 1967 323 1967 323 1967 325 1967 325 1967 409 1979 411 1979 411 1979 436 1967 436 1967 436 1967 438 1967 438 1967 438 1967 441 1967 441 1967 443 1967 493 1981 500 1981 508 1981 569 1969 569 1969 569 1969 572 1969 572 1969 574 1969 574 1969 574 1969 577 1969 577 1969 577 1972 589 1981 589 1981 601 1981 843 1972 845 1972 845 1972 845 1972 909 1986 912 2038 907 2050 258 2048"/></Shape>
+	    <String CONTENT="tuì a Corsica a l’Italia."
+                    HPOS="258"
+                    VPOS="1967"
+                    WIDTH="654"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1724ead8"
+                    
+                    BASELINE="327 2114 1270 2110" 
+                    HPOS="318"
+                    VPOS="2045"
+                    WIDTH="952"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="327 2114 318 2065 340 2048 340 2048 342 2048 342 2048 342 2048 345 2048 345 2048 347 2048 347 2048 347 2048 419 2060 456 2048 456 2048 458 2048 458 2048 461 2048 461 2048 461 2048 463 2048 463 2048 495 2060 535 2048 537 2048 537 2048 537 2048 540 2048 540 2048 621 2060 794 2045 794 2045 796 2045 796 2045 890 2058 892 2060 1016 2060 1018 2058 1030 2045 1030 2045 1033 2045 1033 2045 1033 2045 1035 2045 1035 2045 1035 2045 1038 2045 1265 2055 1270 2110 1267 2127 327 2132"/></Shape>
+	    <String CONTENT="Quale fù u deputatu francese"
+                    HPOS="318"
+                    VPOS="2045"
+                    WIDTH="952"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ab6aeec"
+                    
+                    BASELINE="263 2176 1270 2186" 
+                    HPOS="261"
+                    VPOS="2124"
+                    WIDTH="1009"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="263 2176 263 2124 1270 2129 1270 2186 1267 2196 1023 2208 1020 2208 1020 2208 914 2196 902 2196 261 2196"/></Shape>
+	    <String CONTENT="chi disse che noi un eramu degni"
+                    HPOS="261"
+                    VPOS="2124"
+                    WIDTH="1009"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5b7cd43"
+                    
+                    BASELINE="263 2250 680 2248" 
+                    HPOS="256"
+                    VPOS="2183"
+                    WIDTH="424"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="263 2250 256 2198 286 2183 286 2183 286 2183 288 2183 288 2183 291 2183 291 2183 293 2183 342 2196 355 2198 367 2196 404 2183 406 2183 406 2183 406 2183 409 2183 409 2183 483 2193 537 2198 673 2188 680 2248 678 2262 263 2267"/></Shape>
+	    <String CONTENT="d’a Francia ?"
+                    HPOS="256"
+                    VPOS="2183"
+                    WIDTH="424"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b22c8484"
+                    
+                    BASELINE="323 2322 1270 2326" 
+                    HPOS="318"
+                    VPOS="2255"
+                    WIDTH="952"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="323 2322 323 2257 949 2270 979 2267 1065 2255 1065 2255 1067 2255 1067 2255 1067 2255 1070 2255 1070 2255 1102 2270 1107 2270 1114 2270 1183 2255 1183 2255 1183 2255 1186 2255 1186 2255 1267 2272 1270 2326 1265 2336 318 2331"/></Shape>
+	    <String CONTENT="Georges Clemenceau... Sustenne."
+                    HPOS="318"
+                    VPOS="2255"
+                    WIDTH="952"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b058aa8"
+                    
+                    BASELINE="263 2391 1267 2398" 
+                    HPOS="256"
+                    VPOS="2336"
+                    WIDTH="1011"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="263 2391 263 2336 1265 2346 1267 2398 1265 2418 300 2418 298 2415 298 2415 295 2415 295 2415 256 2400"/></Shape>
+	    <String CONTENT="u 4 marzu 1871, una petizione di u"
+                    HPOS="256"
+                    VPOS="2336"
+                    WIDTH="1011"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b48ceb76"
+                    
+                    BASELINE="266 2460 1265 2467" 
+                    HPOS="263"
+                    VPOS="2398"
+                    WIDTH="1002"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="266 2460 263 2405 355 2398 357 2398 357 2398 357 2398 360 2398 360 2398 379 2405 397 2413 436 2405 490 2398 490 2398 493 2398 493 2398 493 2398 542 2408 569 2413 589 2408 618 2400 621 2400 621 2400 623 2400 623 2400 623 2400 626 2400 626 2400 626 2400 628 2400 638 2408 648 2415 663 2410 685 2400 685 2400 688 2400 688 2400 690 2400 828 2400 828 2400 828 2400 902 2413 939 2420 1159 2420 1168 2415 1213 2403 1215 2403 1215 2403 1218 2403 1218 2403 1218 2403 1220 2403 1265 2418 1265 2467 1260 2499 1203 2487 1168 2499 1168 2499 1168 2499 1166 2499 1166 2499 1164 2499 1164 2499 1156 2499 1013 2484 946 2494 946 2494 944 2494 944 2494 944 2494 942 2494 942 2494 942 2494 939 2494 919 2482 757 2497 742 2497 742 2497 739 2497 739 2497 737 2497 737 2497 734 2497 692 2482 263 2492"/></Shape>
+	    <String CONTENT="« Club des Potisivistes » n’a quale"
+                    HPOS="263"
+                    VPOS="2398"
+                    WIDTH="1002"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="729"
+                   VPOS="345"
+                   WIDTH="146"
+                   HEIGHT="56"
+                   ID="eSc_textblock_8d6920ab"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="729 345 875 354 875 391 729 401 729 345"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_15b8f0ab"
+                    
+                    BASELINE="732 389 796 387" 
+                    HPOS="727"
+                    VPOS="313"
+                    WIDTH="69"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="732 389 727 313 791 313 796 387 796 406 732 409"/></Shape>
+	    <String CONTENT="27"
+                    HPOS="727"
+                    VPOS="313"
+                    WIDTH="69"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="651"
+                   VPOS="364"
+                   WIDTH="46"
+                   HEIGHT="18"
+                   ID="eSc_textblock_27c552fe"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="660 364 688 364 697 382 651 382 660 364"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
