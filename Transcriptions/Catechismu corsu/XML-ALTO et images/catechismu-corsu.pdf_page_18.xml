@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_18.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1785"
+          HEIGHT="2967"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1785"
+                  HEIGHT="2967">
+        
+        <TextBlock HPOS="514"
+                   VPOS="474"
+                   WIDTH="1013"
+                   HEIGHT="225"
+                   ID="eSc_textblock_cdab7fb5"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1250 474 1302 553 1517 553 1527 660 1517 689 1388 699 514 689 594 474"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_43a37b8e"
+                    
+                    BASELINE="579 541 1257 534" 
+                    HPOS="574"
+                    VPOS="464"
+                    WIDTH="683"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="579 541 574 467 690 467 690 467 690 467 693 467 693 467 693 467 693 467 695 467 695 467 710 479 779 467 797 464 797 464 799 464 799 464 799 464 802 464 802 464 802 464 807 467 826 477 1250 469 1257 534 1255 551 579 553"/></Shape>
+	    <String CONTENT="Quante patrie avemu ?"
+                    HPOS="574"
+                    VPOS="464"
+                    WIDTH="683"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b861a61"
+                    
+                    BASELINE="576 605 1497 610" 
+                    HPOS="571"
+                    VPOS="546"
+                    WIDTH="926"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="576 605 576 546 1495 546 1497 610 1492 623 571 613"/></Shape>
+	    <String CONTENT="Avemu una sòla patria : a Corsica !"
+                    HPOS="571"
+                    VPOS="546"
+                    WIDTH="926"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcd97e93"
+                    
+                    BASELINE="522 674 1507 682" 
+                    HPOS="512"
+                    VPOS="618"
+                    WIDTH="995"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="522 674 522 618 1507 618 1507 682 1505 712 1401 719 1398 719 1398 719 1398 719 1396 719 1366 709 1341 702 1326 709 1304 719 1304 719 1304 719 1302 719 1302 719 1302 721 1190 721 1188 719 1188 719 1091 704 1062 699 1044 702 995 717 992 717 992 717 990 717 990 717 990 717 987 717 987 717 987 717 985 717 963 702 839 714 839 714 836 714 836 714 836 714 834 714 834 714 831 714 804 697 668 697 648 712 648 714 648 714 646 714 646 714 643 714 643 714 643 714 641 714 641 714 641 714 638 714 586 697 549 714 549 714 549 714 547 714 547 714 544 714 544 714 544 714 542 714 542 714 542 714 539 714 539 714 512 692"/></Shape>
+	    <String CONTENT="Avemu una sòla mamma : a Corsica !"
+                    HPOS="512"
+                    VPOS="618"
+                    WIDTH="995"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
