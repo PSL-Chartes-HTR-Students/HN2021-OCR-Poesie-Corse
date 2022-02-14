@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Clérice"
+  given-names: "Thibault"
+  orcid: "https://orcid.org/0000-0003-1852-9204"
+- family-names: "Sarbach-Pulicani"
+  given-names: "Vincent"
+- family-names: "Miaille"
+  given-names: "Théophile"
+- family-names: "Escoda"
+  given-names: "Adrien"
+- family-names: "Saïag"
+  given-names: "Violette"
+title: "OCR d'une poésie corse"
+version: 0.0.1
+date-released: 2022-02-14
+url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-OCR-Poesie-Corse"
+type: data
