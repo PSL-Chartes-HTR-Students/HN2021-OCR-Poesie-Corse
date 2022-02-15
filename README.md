@@ -7,6 +7,10 @@ Il s'agit d'un devoir réalisé dans le cadre du cours de Thibault Clérice réa
 - Adrien Escoda
 - Violette Saïag
 
+# Données
+
+Les vérités de terrains se trouvent au chemin UNIX `./Transcriptions/**/data/*.xml`.
+
 # Description des oeuvres
 
 Le premier ouvrage s'intitule *Pontenôvu* a été écrit par Petru Rocca et publié par la "Stamparia di a Muvra" en 1927.
