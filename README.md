@@ -1,5 +1,7 @@
 # Projet d'OCR d'une poésie corse
 
+[![DOI](https://zenodo.org/badge/434214989.svg)](https://zenodo.org/badge/latestdoi/434214989)
+
 L'objectif de ce travail est d'océriser un receuil de poème corse d'une quarantaine de pages.
 Il s'agit d'un devoir réalisé dans le cadre du cours de Thibault Clérice réalisé par :
 - Vincent Sarbach-Pulicani

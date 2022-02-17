@@ -10,7 +10,8 @@ authors:
 - family-names: "Saïag"
   given-names: "Violette"
 title: "OCR d'une poésie corse"
-version: 0.0.1
+version: 1.0
+doi: 10.5281/zenodo.6126641 
 date-released: 2022-02-14
 url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-OCR-Poesie-Corse"
 type: data
