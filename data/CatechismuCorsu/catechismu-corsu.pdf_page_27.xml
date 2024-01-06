@@ -11,27 +11,54 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
-    
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1786"
           HEIGHT="2955"
-          PHYSICAL_IMG_NR="26"
+          PHYSICAL_IMG_NR="16"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="1786"
                   HEIGHT="2955">
         
-        <TextBlock HPOS="266"
-                   VPOS="433"
-                   WIDTH="1027"
-                   HEIGHT="2017"
-                   ID="eSc_textblock_8a3a29fa"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="335 433 1273 433 1293 462 1283 1967 1049 2048 1273 2088 1283 2253 1120 2282 1069 2334 1091 2364 1263 2364 1273 2450 325 2440 266 2263 275 2157 315 2125 266 2036 266 541 335 433"/></Shape>
+        <TextBlock HPOS="640"
+                   VPOS="298"
+                   WIDTH="267"
+                   HEIGHT="87"
+                   ID="eSc_textblock_a4d16811"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="640 298 640 385 865 385 907 385 907 298"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_335113cf"
+                    
+                    BASELINE="669 351 900 354" 
+                    HPOS="665"
+                    VPOS="307"
+                    WIDTH="234"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="889 344 864 322 840 312 707 307 692 310 667 342 667 349 665 359 719 359 726 361 743 376 746 376 748 376 751 376 896 361 899 352 896 315 889 312 889 344"/></Shape>
+	    <String CONTENT="– 25 –"
+                    HPOS="665"
+                    VPOS="307"
+                    WIDTH="234"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="249"
+                   VPOS="404"
+                   WIDTH="1081"
+                   HEIGHT="2076"
+                   ID="eSc_textblock_bdac9c3d"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="249 404 249 1407 249 2480 1330 2480 1330 404"/></Shape>
           
           
           <TextLine ID="eSc_line_e0b5acb5"
@@ -42,7 +69,7 @@
                     WIDTH="948"
                     HEIGHT="96">
             <Shape><Polygon POINTS="332 485 332 413 438 421 453 413 468 406 468 406 468 406 470 406 470 406 472 406 561 406 561 406 561 406 564 406 564 406 564 406 566 406 566 408 576 416 586 426 684 426 714 418 763 406 763 406 763 406 766 406 766 406 901 421 943 423 977 421 1108 406 1108 406 1111 406 1111 406 1113 406 1113 406 1113 406 1143 423 1147 426 1278 426 1278 485 1276 502 330 497"/></Shape>
-	    <String CONTENT="Pontenôvu fù dunque a tomba"
+	    <String CONTENT="Pontenòvu fù dunque a tomba"
                     HPOS="330"
                     VPOS="406"
                     WIDTH="948"
@@ -523,33 +550,6 @@
                     VPOS="2373"
                     WIDTH="941"
                     HEIGHT="106"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="657"
-                   VPOS="305"
-                   WIDTH="234"
-                   HEIGHT="76"
-                   ID="eSc_textblock_2d82f927"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="746 305 862 315 891 352 822 381 657 352 667 315 746 305"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_335113cf"
-                    
-                    BASELINE="734 357 867 354" 
-                    HPOS="729"
-                    VPOS="297"
-                    WIDTH="138"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="734 357 729 297 862 305 867 354 864 374 731 369"/></Shape>
-	    <String CONTENT="25 —"
-                    HPOS="729"
-                    VPOS="297"
-                    WIDTH="138"
-                    HEIGHT="77"></String>
           </TextLine>
 
           

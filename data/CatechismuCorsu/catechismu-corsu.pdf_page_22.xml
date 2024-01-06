@@ -11,38 +11,65 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
-    
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1759"
           HEIGHT="2955"
-          PHYSICAL_IMG_NR="21"
+          PHYSICAL_IMG_NR="11"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="1759"
                   HEIGHT="2955">
         
-        <TextBlock HPOS="473"
+        <TextBlock HPOS="866"
+                   VPOS="316"
+                   WIDTH="263"
+                   HEIGHT="91"
+                   ID="eSc_textblock_09205f4f"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="866 316 866 407 1129 407 1129 316 1043 316"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bc439ff0"
+                    TAGREFS="LT768"
+                    BASELINE="875 380 1115 380" 
+                    HPOS="874"
+                    VPOS="317"
+                    WIDTH="239"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="874 379 874 391 1113 386 1113 379 1111 317 874 322 874 379"/></Shape>
+	    <String CONTENT="– 20 –"
+                    HPOS="874"
+                    VPOS="317"
+                    WIDTH="239"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="449"
                    VPOS="443"
-                   WIDTH="1029"
-                   HEIGHT="2017"
-                   ID="eSc_textblock_0b73d1b9"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1492 462 1502 1159 1305 1231 1463 1270 1502 1319 1492 1593 1295 1644 1298 1713 1473 1733 1502 1773 1502 2361 1492 2400 1374 2460 473 2440 473 1832 512 1740 473 1652 492 443"/></Shape>
+                   WIDTH="1079"
+                   HEIGHT="2063"
+                   ID="eSc_textblock_445cf465"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="449 443 449 1590 449 2506 1528 2506 1528 443"/></Shape>
           
           
           <TextLine ID="eSc_line_c4b44c90"
-                    
+                    TAGREFS="LT768"
                     BASELINE="485 499 1480 499" 
                     HPOS="485"
                     VPOS="426"
                     WIDTH="995"
                     HEIGHT="88">
             <Shape><Polygon POINTS="485 499 485 426 623 440 684 428 684 428 684 428 687 428 687 428 758 440 776 426 776 426 776 426 776 426 778 426 778 426 780 426 780 426 780 426 783 426 783 426 800 426 904 443 1029 443 1051 428 1054 426 1056 426 1056 426 1056 426 1059 426 1059 426 1061 426 1061 426 1061 426 1064 426 1064 426 1071 428 1098 440 1165 430 1192 426 1192 426 1194 426 1194 426 1239 430 1330 440 1478 433 1480 499 1480 514 485 514"/></Shape>
-	    <String CONTENT="la, Pasquale Paoli ghjurò òdiu eter-"
+	    <String CONTENT="la, Pasquale Paoli ghjurò òdiu eter¬"
                     HPOS="485"
                     VPOS="426"
                     WIDTH="995"
@@ -52,7 +79,7 @@
           
           
           <TextLine ID="eSc_line_cf7eb346"
-                    
+                    TAGREFS="LT768"
                     BASELINE="485 563 948 563" 
                     HPOS="482"
                     VPOS="504"
@@ -69,7 +96,7 @@
           
           
           <TextLine ID="eSc_line_f653554d"
-                    
+                    TAGREFS="LT768"
                     BASELINE="539 647 1473 647" 
                     HPOS="537"
                     VPOS="583"
@@ -86,14 +113,14 @@
           
           
           <TextLine ID="eSc_line_73525384"
-                    
+                    TAGREFS="LT768"
                     BASELINE="539 714 1485 719" 
                     HPOS="537"
                     VPOS="659"
                     WIDTH="948"
                     HEIGHT="74">
             <Shape><Polygon POINTS="539 714 539 659 1483 664 1485 719 1483 728 537 733"/></Shape>
-	    <String CONTENT="A Napuli induv’ellu truvò gene-"
+	    <String CONTENT="A Napuli induv’ellu truvò gene¬"
                     HPOS="537"
                     VPOS="659"
                     WIDTH="948"
@@ -103,7 +130,7 @@
           
           
           <TextLine ID="eSc_line_7d02fa5d"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 775 1293 775" 
                     HPOS="482"
                     VPOS="728"
@@ -120,14 +147,14 @@
           
           
           <TextLine ID="eSc_line_d8fe5855"
-                    
+                    TAGREFS="LT768"
                     BASELINE="546 861 1488 856" 
                     HPOS="539"
                     VPOS="792"
                     WIDTH="949"
                     HEIGHT="96">
             <Shape><Polygon POINTS="546 861 539 810 566 795 566 795 566 795 569 795 569 795 571 795 995 807 1010 807 1010 807 1042 792 1042 792 1042 792 1044 792 1044 792 1047 792 1483 807 1488 856 1483 886 1362 874 1345 886 1345 886 1342 886 1342 886 1342 886 1340 886 1340 886 1340 886 1337 886 1310 886 1125 874 1103 884 1096 886 1096 886 1093 886 1093 886 1093 886 1091 886 1091 886 1091 886 1088 886 1088 886 1086 886 1086 886 1083 884 1071 874 1024 884 1002 886 1002 886 1002 886 1000 886 1000 886 997 886 997 886 997 886 995 886 990 881 978 874 968 881 958 888 955 888 955 888 955 888 953 888 953 888 950 888 950 888 950 888 948 888 923 881 894 874 546 876"/></Shape>
-	    <String CONTENT="Quandu Pasquale Paoli fece ri-"
+	    <String CONTENT="Quandu Pasquale Paoli fece ri¬"
                     HPOS="539"
                     VPOS="792"
                     WIDTH="949"
@@ -137,7 +164,7 @@
           
           
           <TextLine ID="eSc_line_42ee7847"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 928 1005 923" 
                     HPOS="480"
                     VPOS="874"
@@ -154,7 +181,7 @@
           
           
           <TextLine ID="eSc_line_c8e61753"
-                    
+                    TAGREFS="LT768"
                     BASELINE="546 994 1490 1004" 
                     HPOS="537"
                     VPOS="923"
@@ -171,14 +198,14 @@
           
           
           <TextLine ID="eSc_line_ece5734c"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 1073 1488 1068" 
                     HPOS="477"
                     VPOS="1002"
                     WIDTH="1011"
                     HEIGHT="81">
             <Shape><Polygon POINTS="482 1073 477 1021 556 1004 556 1004 556 1004 559 1004 559 1004 667 1017 707 1004 709 1004 709 1004 709 1004 711 1004 941 1017 1133 1002 1135 1002 1483 1017 1488 1068 1488 1083 482 1083"/></Shape>
-	    <String CONTENT="patria chiamatu da u Direttòriu na-"
+	    <String CONTENT="patria chiamatu da u Direttòriu na¬"
                     HPOS="477"
                     VPOS="1002"
                     WIDTH="1011"
@@ -188,7 +215,7 @@
           
           
           <TextLine ID="eSc_line_37d8c014"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 1142 1485 1142" 
                     HPOS="480"
                     VPOS="1085"
@@ -205,7 +232,7 @@
           
           
           <TextLine ID="eSc_line_a40e3ed6"
-                    
+                    TAGREFS="LT768"
                     BASELINE="485 1206 1263 1206" 
                     HPOS="482"
                     VPOS="1140"
@@ -222,7 +249,7 @@
           
           
           <TextLine ID="eSc_line_bf1ad2e5"
-                    
+                    TAGREFS="LT768"
                     BASELINE="541 1287 800 1287" 
                     HPOS="539"
                     VPOS="1211"
@@ -239,7 +266,7 @@
           
           
           <TextLine ID="eSc_line_ea02cea1"
-                    
+                    TAGREFS="LT768"
                     BASELINE="539 1356 1488 1361" 
                     HPOS="534"
                     VPOS="1290"
@@ -256,14 +283,14 @@
           
           
           <TextLine ID="eSc_line_ae88f504"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 1430 1485 1430" 
                     HPOS="477"
                     VPOS="1364"
                     WIDTH="1008"
                     HEIGHT="88">
             <Shape><Polygon POINTS="480 1430 480 1364 719 1381 761 1364 763 1364 763 1364 766 1364 766 1364 766 1364 768 1364 768 1364 771 1364 776 1364 840 1381 931 1366 950 1364 950 1364 953 1364 953 1364 953 1364 955 1364 955 1364 955 1364 958 1364 960 1366 980 1379 1069 1366 1098 1364 1098 1364 1101 1364 1101 1364 1103 1364 1103 1364 1103 1364 1106 1364 1106 1364 1106 1366 1108 1366 1123 1381 1483 1371 1485 1430 1483 1452 477 1443"/></Shape>
-	    <String CONTENT="cunventu di a Casabianca, u 15 lu-"
+	    <String CONTENT="cunventu di a Casabianca, u 15 lu¬"
                     HPOS="477"
                     VPOS="1364"
                     WIDTH="1008"
@@ -273,7 +300,7 @@
           
           
           <TextLine ID="eSc_line_5e86846c"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 1502 1488 1502" 
                     HPOS="482"
                     VPOS="1438"
@@ -290,14 +317,14 @@
           
           
           <TextLine ID="eSc_line_145be68d"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 1568 1480 1576" 
                     HPOS="477"
                     VPOS="1507"
                     WIDTH="1003"
                     HEIGHT="93">
             <Shape><Polygon POINTS="482 1568 480 1516 812 1507 815 1507 1478 1524 1480 1576 1475 1600 477 1593"/></Shape>
-	    <String CONTENT="cumandu di l’isula cu u titulu di ge-"
+	    <String CONTENT="cumandu di l’isula cu u titulu di ge¬"
                     HPOS="477"
                     VPOS="1507"
                     WIDTH="1003"
@@ -307,7 +334,7 @@
           
           
           <TextLine ID="eSc_line_bbc9b69e"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 1642 687 1642" 
                     HPOS="475"
                     VPOS="1576"
@@ -324,7 +351,7 @@
           
           
           <TextLine ID="eSc_line_bb09f987"
-                    
+                    TAGREFS="LT768"
                     BASELINE="541 1726 1241 1726" 
                     HPOS="539"
                     VPOS="1657"
@@ -341,14 +368,14 @@
           
           
           <TextLine ID="eSc_line_fa4ec3be"
-                    
+                    TAGREFS="LT768"
                     BASELINE="541 1792 1485 1800" 
                     HPOS="539"
                     VPOS="1728"
                     WIDTH="949"
                     HEIGHT="86">
             <Shape><Polygon POINTS="541 1792 541 1736 758 1743 768 1738 783 1728 785 1728 785 1728 785 1728 788 1728 788 1728 790 1728 790 1728 790 1728 847 1740 874 1745 881 1740 886 1736 886 1733 886 1733 889 1733 889 1733 889 1733 891 1733 891 1733 891 1733 1051 1731 1054 1731 1054 1731 1056 1731 1056 1731 1091 1743 1098 1745 1106 1743 1155 1731 1157 1731 1157 1731 1160 1731 1160 1731 1160 1731 1224 1745 1234 1748 1239 1745 1249 1736 1249 1736 1251 1736 1251 1736 1251 1736 1253 1736 1253 1736 1253 1736 1443 1733 1446 1733 1446 1733 1448 1733 1448 1733 1488 1750 1485 1800 1483 1814 539 1814"/></Shape>
-	    <String CONTENT="Un guvernu di libertà e di justi-"
+	    <String CONTENT="Un guvernu di libertà e di justi¬"
                     HPOS="539"
                     VPOS="1728"
                     WIDTH="949"
@@ -358,7 +385,7 @@
           
           
           <TextLine ID="eSc_line_34eef2bd"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 1859 1488 1871" 
                     HPOS="475"
                     VPOS="1795"
@@ -375,7 +402,7 @@
           
           
           <TextLine ID="eSc_line_3d02889a"
-                    
+                    TAGREFS="LT768"
                     BASELINE="482 1937 1485 1942" 
                     HPOS="475"
                     VPOS="1873"
@@ -392,7 +419,7 @@
           
           
           <TextLine ID="eSc_line_77d471fd"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 2009 689 2002" 
                     HPOS="475"
                     VPOS="1942"
@@ -409,14 +436,14 @@
           
           
           <TextLine ID="eSc_line_75f6cefe"
-                    
+                    TAGREFS="LT768"
                     BASELINE="544 2093 1485 2093" 
                     HPOS="541"
                     VPOS="2029"
                     WIDTH="944"
                     HEIGHT="96">
             <Shape><Polygon POINTS="544 2093 544 2029 640 2041 719 2031 739 2029 739 2029 741 2029 778 2031 886 2041 906 2034 916 2029 916 2029 918 2029 918 2029 918 2029 921 2029 921 2029 923 2029 946 2034 978 2041 1133 2036 1409 2029 1411 2029 1411 2029 1485 2043 1485 2093 1485 2110 1409 2125 1409 2125 1406 2125 849 2112 662 2125 660 2125 660 2125 541 2110"/></Shape>
-	    <String CONTENT="Quand’ebbe lògu u sicondu esi-"
+	    <String CONTENT="Quand’ebbe lògu u sicondu esi¬"
                     HPOS="541"
                     VPOS="2029"
                     WIDTH="944"
@@ -426,7 +453,7 @@
           
           
           <TextLine ID="eSc_line_d7fde9e8"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 2159 623 2154" 
                     HPOS="473"
                     VPOS="2100"
@@ -443,14 +470,14 @@
           
           
           <TextLine ID="eSc_line_0001d292"
-                    
+                    TAGREFS="LT768"
                     BASELINE="537 2231 1483 2235" 
                     HPOS="532"
                     VPOS="2162"
                     WIDTH="951"
                     HEIGHT="93">
             <Shape><Polygon POINTS="537 2231 537 2162 613 2176 736 2164 736 2164 739 2164 960 2176 1005 2164 1007 2164 1007 2164 1007 2164 1007 2164 1010 2164 1010 2164 1010 2164 1010 2164 1012 2164 1012 2164 1047 2179 1083 2167 1086 2167 1086 2167 1086 2167 1088 2167 1088 2167 1091 2167 1091 2167 1128 2179 1478 2167 1483 2235 1480 2243 1012 2255 1010 2255 1010 2255 1010 2255 946 2243 776 2253 773 2253 532 2238"/></Shape>
-	    <String CONTENT="Pè a siconda volta, Pasquale Pao-"
+	    <String CONTENT="Pè a siconda volta, Pasquale Pao¬"
                     HPOS="532"
                     VPOS="2162"
                     WIDTH="951"
@@ -460,14 +487,14 @@
           
           
           <TextLine ID="eSc_line_c2939391"
-                    
+                    TAGREFS="LT768"
                     BASELINE="477 2297 1480 2304" 
                     HPOS="473"
                     VPOS="2233"
                     WIDTH="1007"
                     HEIGHT="94">
             <Shape><Polygon POINTS="477 2297 477 2233 630 2248 761 2238 798 2235 800 2235 800 2235 800 2235 803 2235 803 2235 803 2235 805 2235 808 2238 827 2250 936 2240 978 2238 980 2238 1478 2253 1480 2304 1478 2317 820 2327 817 2327 473 2309"/></Shape>
-	    <String CONTENT="li s’imbarcò per l’esiliu, a Portuvec-"
+	    <String CONTENT="li s’imbarcò per l’esiliu, a Portuvec¬"
                     HPOS="473"
                     VPOS="2233"
                     WIDTH="1007"
@@ -477,14 +504,14 @@
           
           
           <TextLine ID="eSc_line_aca8d329"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 2371 1480 2376" 
                     HPOS="477"
                     VPOS="2309"
                     WIDTH="1003"
                     HEIGHT="82">
             <Shape><Polygon POINTS="480 2371 477 2319 564 2309 564 2309 566 2309 566 2309 569 2309 569 2309 569 2309 588 2319 606 2329 719 2329 729 2322 741 2309 741 2309 744 2309 744 2309 744 2309 746 2309 746 2309 748 2309 864 2309 864 2309 864 2309 867 2309 867 2309 867 2309 869 2309 869 2309 881 2322 923 2309 926 2309 926 2309 926 2309 928 2309 928 2309 931 2309 931 2309 965 2324 982 2331 1066 2331 1074 2324 1086 2314 1086 2312 1086 2312 1088 2312 1088 2312 1091 2312 1091 2312 1091 2312 1093 2312 1093 2312 1093 2312 1096 2312 1096 2312 1096 2312 1120 2324 1130 2331 1175 2331 1180 2324 1189 2317 1189 2314 1189 2314 1192 2314 1192 2314 1192 2314 1194 2314 1194 2314 1197 2314 1197 2314 1318 2327 1350 2329 1362 2327 1419 2312 1421 2312 1421 2312 1423 2312 1423 2312 1423 2312 1426 2312 1480 2329 1480 2376 1478 2388 477 2391"/></Shape>
-	    <String CONTENT="chiu, u 13 jugnu 1769, dòpu l’in-"
+	    <String CONTENT="chiu, u 13 jugnu 1769, dòpu l’in¬"
                     HPOS="477"
                     VPOS="2309"
                     WIDTH="1003"
@@ -494,7 +521,7 @@
           
           
           <TextLine ID="eSc_line_41000327"
-                    
+                    TAGREFS="LT768"
                     BASELINE="480 2442 1362 2450" 
                     HPOS="477"
                     VPOS="2373"

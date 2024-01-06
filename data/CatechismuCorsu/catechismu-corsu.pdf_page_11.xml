@@ -11,63 +11,37 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
-    
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="1789"
           HEIGHT="2958"
-          PHYSICAL_IMG_NR="10"
+          PHYSICAL_IMG_NR="0"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
                   WIDTH="1789"
                   HEIGHT="2958">
         
-        <TextBlock HPOS="266"
-                   VPOS="966"
-                   WIDTH="1029"
-                   HEIGHT="1466"
-                   ID="eSc_textblock_9e524ff0"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="797 966 1031 1025 1031 1062 893 1094 954 1163 1295 1193 1295 1782 1265 1804 1295 1833 1295 2403 1120 2432 276 2423 266 1932 315 1831 266 1713 286 1252 325 1239 345 1114 560 1104 572 995 764 995 797 966"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="767"
-                   VPOS="897"
-                   WIDTH="47"
-                   HEIGHT="47"
-                   ID="eSc_textblock_1ac6d189"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="777 897 814 907 814 944 767 944 777 897"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="414"
-                   VPOS="650"
-                   WIDTH="755"
-                   HEIGHT="165"
-                   ID="eSc_textblock_3f29b87e"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="629 650 1110 660 1159 680 1169 737 905 776 873 815 414 756 424 660 629 650"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+        <TextBlock HPOS="232"
+                   VPOS="621"
+                   WIDTH="1068"
+                   HEIGHT="1843"
+                   ID="eSc_textblock_9bf2b5e6"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="232 621 232 2464 1300 2464 1300 621"/></Shape>
           
           
           <TextLine ID="eSc_line_209ea929"
-                    
+                    TAGREFS="LT769"
                     BASELINE="421 739 1152 746" 
                     HPOS="419"
                     VPOS="640"
                     WIDTH="733"
                     HEIGHT="121">
-            <Shape><Polygon POINTS="421 739 421 655 604 658 616 655 651 640 651 640 653 640 653 640 653 640 656 640 656 640 658 640 658 640 658 640 685 655 700 660 745 655 789 648 789 648 792 648 792 648 838 655 885 660 903 655 925 645 925 645 927 645 927 645 930 645 1152 655 1152 746 1149 756 419 761"/></Shape>
+            <Shape><Polygon POINTS="421 739 421 655 604 658 616 655 651 640 653 640 656 640 658 640 685 655 700 660 745 655 789 648 792 648 838 655 885 660 903 655 925 645 927 645 930 645 1152 655 1152 746 1149 756 419 761"/></Shape>
 	    <String CONTENT="A nostra Santa Fede"
                     HPOS="419"
                     VPOS="640"
@@ -78,47 +52,30 @@
           
           
           <TextLine ID="eSc_line_655e9ed7"
-                    
-                    BASELINE="779 947 819 945" 
-                    HPOS="767"
-                    VPOS="862"
-                    WIDTH="49"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="777 946 767 865 806 862 816 944 814 953 774 951"/></Shape>
+                    TAGREFS="LT769"
+                    BASELINE="773 944 819 945" 
+                    HPOS="769"
+                    VPOS="867"
+                    WIDTH="47"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="772 941 769 951 811 953 816 944 816 870 774 867 772 941"/></Shape>
 	    <String CONTENT="I"
-                    HPOS="767"
-                    VPOS="862"
-                    WIDTH="49"
-                    HEIGHT="91"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_73e64944"
-                    
-                    BASELINE="778 950 772 952 745 952 647 952" 
-                    HPOS="644"
-                    VPOS="936"
-                    WIDTH="135"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="777 949 779 986 644 978 646 951 644 941 774 936"/></Shape>
-	    <String CONTENT=""
-                    HPOS="644"
-                    VPOS="936"
-                    WIDTH="135"
-                    HEIGHT="50"></String>
+                    HPOS="769"
+                    VPOS="867"
+                    WIDTH="47"
+                    HEIGHT="86"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_a109c0a6"
-                    
+                    TAGREFS="LT769"
                     BASELINE="557 1055 1016 1050" 
                     HPOS="552"
                     VPOS="968"
                     WIDTH="464"
                     HEIGHT="126">
-            <Shape><Polygon POINTS="557 1055 552 990 616 990 619 988 646 971 648 971 648 971 648 971 651 971 651 971 653 971 653 971 653 971 730 983 777 968 779 968 779 968 779 968 782 968 782 968 784 968 784 968 784 968 816 983 848 968 848 968 848 968 851 968 851 968 853 968 853 968 1011 986 1016 1050 1014 1079 967 1072 957 1079 942 1091 942 1091 940 1091 940 1091 937 1091 937 1091 937 1091 745 1094 742 1094 742 1094 740 1094 740 1094 740 1094 703 1074 700 1074 557 1074"/></Shape>
+            <Shape><Polygon POINTS="557 1055 552 990 616 990 619 988 646 971 648 971 651 971 653 971 730 983 777 968 779 968 782 968 784 968 816 983 848 968 851 968 853 968 1011 986 1016 1050 1014 1079 967 1072 957 1079 942 1091 940 1091 937 1091 745 1094 742 1094 740 1094 703 1074 700 1074 557 1074"/></Shape>
 	    <String CONTENT="A Patria Corsa"
                     HPOS="552"
                     VPOS="968"
@@ -129,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_74fcceb3"
-                    
+                    TAGREFS="LT768"
                     BASELINE="342 1170 868 1170" 
                     HPOS="342"
                     VPOS="1091"
@@ -146,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_c1f9698e"
-                    
+                    TAGREFS="LT768"
                     BASELINE="338 1237 1285 1244" 
                     HPOS="333"
                     VPOS="1161"
@@ -163,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_6f3f2001"
-                    
+                    TAGREFS="LT768"
                     BASELINE="283 1311 685 1306" 
                     HPOS="278"
                     VPOS="1247"
@@ -180,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_88f7a742"
-                    
+                    TAGREFS="LT768"
                     BASELINE="342 1387 1288 1397" 
                     HPOS="335"
                     VPOS="1308"
@@ -197,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_e5278219"
-                    
+                    TAGREFS="LT768"
                     BASELINE="283 1461 567 1461" 
                     HPOS="283"
                     VPOS="1395"
@@ -214,14 +171,14 @@
           
           
           <TextLine ID="eSc_line_13df771a"
-                    
+                    TAGREFS="LT768"
                     BASELINE="338 1538 1283 1533" 
                     HPOS="333"
                     VPOS="1459"
                     WIDTH="950"
                     HEIGHT="96">
             <Shape><Polygon POINTS="338 1538 333 1466 471 1461 473 1461 473 1461 523 1469 604 1479 671 1469 730 1461 730 1461 732 1461 895 1471 959 1476 974 1474 1028 1461 1028 1461 1028 1461 1031 1461 1031 1461 1031 1461 1033 1461 1073 1474 1078 1476 1078 1474 1098 1459 1098 1459 1100 1459 1100 1459 1100 1459 1103 1459 1103 1459 1105 1459 1194 1459 1194 1459 1194 1459 1196 1459 1196 1459 1196 1459 1199 1459 1223 1476 1226 1479 1278 1479 1283 1533 1280 1555 335 1548"/></Shape>
-	    <String CONTENT="C’a Francia un avemu nulla di cu-"
+	    <String CONTENT="C’a Francia un avemu nulla di cu¬"
                     HPOS="333"
                     VPOS="1459"
                     WIDTH="950"
@@ -231,14 +188,14 @@
           
           
           <TextLine ID="eSc_line_f2378aca"
-                    
+                    TAGREFS="LT768"
                     BASELINE="278 1602 1280 1609" 
                     HPOS="271"
                     VPOS="1538"
                     WIDTH="1009"
                     HEIGHT="93">
             <Shape><Polygon POINTS="278 1602 271 1555 298 1538 301 1538 301 1538 301 1538 303 1538 303 1538 305 1538 305 1538 305 1538 308 1538 360 1552 532 1538 535 1538 535 1538 535 1538 537 1538 537 1538 537 1538 540 1538 540 1538 557 1552 898 1540 900 1540 900 1540 903 1540 903 1540 942 1555 947 1560 1088 1560 1090 1555 1103 1545 1103 1543 1103 1543 1105 1543 1105 1543 1105 1543 1107 1543 1107 1543 1107 1543 1110 1543 1280 1557 1280 1609 1278 1619 947 1631 945 1631 565 1617 305 1626 303 1626 303 1626 301 1626 301 1626 301 1626 271 1612"/></Shape>
-	    <String CONTENT="mune, nè stòria, nè lingua, nè cus-"
+	    <String CONTENT="mune, nè stòria, nè lingua, nè cus¬"
                     HPOS="271"
                     VPOS="1538"
                     WIDTH="1009"
@@ -248,14 +205,14 @@
           
           
           <TextLine ID="eSc_line_4357569d"
-                    
+                    TAGREFS="LT768"
                     BASELINE="278 1678 1280 1678" 
                     HPOS="276"
                     VPOS="1609"
                     WIDTH="1004"
                     HEIGHT="91">
             <Shape><Polygon POINTS="278 1678 276 1624 397 1609 397 1609 399 1609 399 1609 402 1609 402 1609 429 1621 434 1621 468 1619 626 1609 629 1609 629 1609 629 1609 631 1609 631 1609 648 1617 656 1621 663 1617 676 1609 678 1609 678 1609 681 1609 681 1609 681 1609 683 1609 683 1609 685 1609 713 1617 732 1621 1080 1612 1172 1609 1174 1609 1174 1609 1177 1609 1177 1609 1179 1609 1211 1621 1278 1609 1280 1678 1278 1700 276 1690"/></Shape>
-	    <String CONTENT="tumi, nè aspirazioni... E solu è fran-"
+	    <String CONTENT="tumi, nè aspirazioni... E solu è fran¬"
                     HPOS="276"
                     VPOS="1609"
                     WIDTH="1004"
@@ -265,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_91d0fdeb"
-                    
+                    TAGREFS="LT768"
                     BASELINE="276 1742 1278 1752" 
                     HPOS="271"
                     VPOS="1678"
@@ -282,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_395d5ab1"
-                    
+                    TAGREFS="LT768"
                     BASELINE="340 1831 1144 1826" 
                     HPOS="335"
                     VPOS="1757"
@@ -299,14 +256,14 @@
           
           
           <TextLine ID="eSc_line_8b103a27"
-                    
+                    TAGREFS="LT768"
                     BASELINE="333 1898 1283 1902" 
                     HPOS="328"
                     VPOS="1833"
                     WIDTH="957"
                     HEIGHT="82">
             <Shape><Polygon POINTS="333 1898 330 1846 656 1833 658 1833 658 1833 661 1833 661 1833 661 1833 663 1833 663 1833 663 1836 676 1846 676 1846 681 1846 910 1836 913 1836 913 1836 1014 1848 1021 1848 1024 1848 1065 1836 1068 1836 1068 1836 1070 1836 1070 1836 1070 1836 1132 1848 1135 1848 1135 1848 1228 1836 1228 1836 1231 1836 1231 1836 1233 1836 1285 1851 1283 1902 1278 1915 328 1910"/></Shape>
-	    <String CONTENT="A bandiera a testa di moru, quel-"
+	    <String CONTENT="A bandiera a testa di moru, quel¬"
                     HPOS="328"
                     VPOS="1833"
                     WIDTH="957"
@@ -316,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_4f35f025"
-                    
+                    TAGREFS="LT768"
                     BASELINE="276 1969 1278 1976" 
                     HPOS="271"
                     VPOS="1905"
@@ -333,14 +290,14 @@
           
           
           <TextLine ID="eSc_line_f603a154"
-                    
+                    TAGREFS="LT768"
                     BASELINE="276 2041 1280 2045" 
                     HPOS="268"
                     VPOS="1974"
                     WIDTH="1012"
                     HEIGHT="94">
             <Shape><Polygon POINTS="276 2041 276 1976 663 1986 676 1981 693 1974 693 1974 695 1974 695 1974 695 1974 698 1974 698 1974 698 1974 742 1981 779 1989 925 1984 1206 1976 1209 1976 1209 1976 1209 1976 1278 1991 1280 2045 1275 2068 730 2055 624 2058 308 2065 305 2065 305 2065 303 2065 303 2065 268 2050"/></Shape>
-	    <String CONTENT="battaglia di l’ultima guerra d’Indi-"
+	    <String CONTENT="battaglia di l’ultima guerra d’Indi¬"
                     HPOS="268"
                     VPOS="1974"
                     WIDTH="1012"
@@ -350,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_1cdcf7da"
-                    
+                    TAGREFS="LT768"
                     BASELINE="276 2114 565 2110" 
                     HPOS="266"
                     VPOS="2050"
@@ -367,14 +324,14 @@
           
           
           <TextLine ID="eSc_line_6e603e27"
-                    
+                    TAGREFS="LT768"
                     BASELINE="342 2196 1283 2196" 
                     HPOS="338"
                     VPOS="2127"
                     WIDTH="945"
                     HEIGHT="101">
             <Shape><Polygon POINTS="342 2196 342 2127 434 2142 562 2127 582 2127 584 2127 678 2127 678 2127 678 2127 681 2127 681 2127 681 2127 683 2127 683 2127 683 2129 685 2129 695 2142 723 2129 725 2129 725 2129 727 2129 727 2129 730 2129 730 2129 730 2129 737 2129 797 2142 1280 2137 1283 2196 1283 2208 1204 2225 1204 2225 1204 2228 898 2228 895 2225 895 2225 893 2225 893 2225 861 2213 824 2225 821 2225 821 2225 821 2225 819 2225 819 2225 690 2211 651 2225 651 2225 648 2225 648 2225 648 2225 646 2225 646 2225 644 2225 644 2225 644 2225 641 2225 616 2211 424 2211 382 2225 382 2225 380 2225 380 2225 377 2225 377 2225 377 2225 375 2225 375 2225 338 2208"/></Shape>
-	    <String CONTENT="Cume a Corsica divenne fran-"
+	    <String CONTENT="Cume a Corsica divenne fran¬"
                     HPOS="338"
                     VPOS="2127"
                     WIDTH="945"
@@ -384,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_bc4fc7b2"
-                    
+                    TAGREFS="LT768"
                     BASELINE="278 2265 461 2265" 
                     HPOS="278"
                     VPOS="2206"
@@ -401,14 +358,14 @@
           
           
           <TextLine ID="eSc_line_39486e5c"
-                    
+                    TAGREFS="LT768"
                     BASELINE="340 2334 1278 2341" 
                     HPOS="335"
                     VPOS="2265"
                     WIDTH="943"
                     HEIGHT="96">
             <Shape><Polygon POINTS="340 2334 340 2272 508 2282 525 2275 545 2265 545 2265 545 2265 547 2265 547 2265 550 2265 550 2265 550 2265 552 2265 552 2265 555 2265 555 2265 555 2267 565 2275 574 2282 621 2277 661 2272 661 2272 663 2272 663 2272 663 2272 666 2272 683 2277 705 2285 764 2280 878 2267 878 2267 880 2267 880 2267 962 2282 987 2287 996 2282 1026 2270 1026 2270 1028 2270 1028 2270 1031 2270 1164 2270 1164 2270 1164 2270 1275 2289 1278 2341 1275 2351 661 2361 658 2361 335 2344"/></Shape>
-	    <String CONTENT="N&#39;u 1769, trenta mila suldati fran-"
+	    <String CONTENT="N&#39;u 1769, trenta mila suldati fran¬"
                     HPOS="335"
                     VPOS="2265"
                     WIDTH="943"
@@ -418,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_9762ca82"
-                    
+                    TAGREFS="LT768"
                     BASELINE="273 2405 1280 2410" 
                     HPOS="268"
                     VPOS="2344"
@@ -434,6 +391,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
