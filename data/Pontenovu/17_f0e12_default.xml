@@ -585,13 +585,13 @@
           
           
           <TextLine ID="eSc_line_d3563df6"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1641 1950 2460 1957" 
                     HPOS="1633"
                     VPOS="1852"
                     WIDTH="827"
                     HEIGHT="124">
-            <Shape><Polygon POINTS="1641 1950 1641 1875 1869 1879 1876 1871 1895 1856 1895 1852 1895 1852 1899 1852 1899 1852 1899 1852 1903 1852 1903 1852 1906 1852 1906 1852 1906 1852 1992 1871 2052 1882 2112 1867 2149 1860 2153 1860 2153 1860 2157 1860 2460 1867 2460 1957 2452 1976 1633 1968"/></Shape>
+            <Shape><Polygon POINTS="1641 1950 1641 1875 1869 1879 1876 1871 1895 1856 1895 1852 1899 1852 1903 1852 1906 1852 1992 1871 2052 1882 2112 1867 2149 1860 2153 1860 2157 1860 2460 1867 2460 1957 2452 1976 1633 1968"/></Shape>
 	    <String CONTENT="A Bandera a fior di giliu"
                     HPOS="1633"
                     VPOS="1852"
@@ -602,7 +602,7 @@
           
           
           <TextLine ID="eSc_line_1201ddf6"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1660 2036 2516 2043" 
                     HPOS="1652"
                     VPOS="1953"
@@ -619,7 +619,7 @@
           
           
           <TextLine ID="eSc_line_c6d866c2"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1656 2118 2482 2125" 
                     HPOS="1648"
                     VPOS="2043"
@@ -636,7 +636,7 @@
           
           
           <TextLine ID="eSc_line_b8a6537d"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1660 2207 2475 2207" 
                     HPOS="1660"
                     VPOS="2136"
@@ -653,7 +653,7 @@
           
           
           <TextLine ID="eSc_line_c841d9cb"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1656 2286 2478 2293" 
                     HPOS="1648"
                     VPOS="2207"
@@ -670,7 +670,7 @@
           
           
           <TextLine ID="eSc_line_2d706068"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1660 2368 2385 2368" 
                     HPOS="1660"
                     VPOS="2282"
@@ -687,7 +687,7 @@
           
           
           <TextLine ID="eSc_line_35c18ad4"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1656 2446 2493 2454" 
                     HPOS="1648"
                     VPOS="2375"
@@ -704,7 +704,7 @@
           
           
           <TextLine ID="eSc_line_6cb739ef"
-                    
+                    TAGREFS="LT770"
                     BASELINE="1667 2615 2564 2607" 
                     HPOS="1663"
                     VPOS="2529"
