@@ -46,7 +46,6 @@ characters:
   - P
   - q
   - z
-  - '-'
   - '?'
   - "'"
   - A
@@ -54,49 +53,53 @@ characters:
   - I
   - L
   - S
+  - '1'
   - D
   - ̂
-  - '1'
   - G
   - j
   - F
   - U
   - E
   - Q
+  - '-'
   - x
   - '!'
   - B
   - ':'
   - V
   - '7'
-  - R
   - '9'
+  - R
   - N
   - ;
+  - –
   - O
-  - T
   - '8'
-  - «
+  - T
+  - '2'
   - '0'
   - '3'
+  - «
   - '6'
-  - '2'
   - y
   - '5'
   - ̧
   - »
-  - —
   - (
   - )
+  - —
   - '4'
   - J
   - °
   - H
+  - '*'
   - '"'
   - X
   - œ
   - ̈
   - K
+  - ^
   - “
   - '='
   mode: NFD
@@ -138,11 +141,11 @@ title: OCR Corse
 transcription-guidelines: ''
 url: https://github.com/PSL-Chartes-HTR-Students/HN2021-OCR-Poesie-Corse
 volume:
-- count: 41136
+- count: 41205
   metric: characters
 - count: 47
   metric: files
-- count: 1664
+- count: 1681
   metric: lines
-- count: 146
+- count: 151
   metric: regions
