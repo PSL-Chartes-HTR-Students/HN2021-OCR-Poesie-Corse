@@ -588,23 +588,6 @@
 
           
           
-          <TextLine ID="eSc_line_225a6fc7"
-                    
-                    BASELINE="1544 3656 1550 3656" 
-                    HPOS="1541"
-                    VPOS="3637"
-                    WIDTH="8"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="1541 3637 1541 3652 1545 3686 1549 3682 1549 3652 1545 3637 1541 3637"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1541"
-                    VPOS="3637"
-                    WIDTH="8"
-                    HEIGHT="49"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8a11b49b"
                     TAGREFS="LT770"
                     BASELINE="485 3658 1511 3656" 
@@ -1234,7 +1217,7 @@
                     VPOS="3562"
                     WIDTH="1015"
                     HEIGHT="94">
-            <Shape><Polygon POINTS="1549 3633 1549 3652 2561 3656 2564 3633 2561 3562 1549 3570 1549 3633"/></Shape>
+            <Shape><Polygon POINTS="1549 3652 2561 3656 2564 3633 2561 3562 1549 3570 1549 3633"/></Shape>
 	    <String CONTENT="qui pourrait être pour eux une"
                     HPOS="1549"
                     VPOS="3562"
@@ -1293,16 +1276,6 @@
                     HEIGHT="112"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1533.0"
-                   VPOS="1304.0"
-                   WIDTH="5.0"
-                   HEIGHT="2550.0"
-                   ID="eSc_textblock_956a1d81"
-                   >
-          <Shape><Polygon POINTS="1534 1304 1534 2353 1537 2353 1537 1305 1538 1305 1538 3854 1533 3854 1533 1304"/></Shape>
           
         </TextBlock>
         
