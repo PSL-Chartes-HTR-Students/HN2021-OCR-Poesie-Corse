@@ -15,6 +15,12 @@ authors:
   - transcriber
   - project-manager
   surname: Théophile
+- name: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - transcriber
+  - quality-control
+  surname: Simon
 characters:
   members:
   - e

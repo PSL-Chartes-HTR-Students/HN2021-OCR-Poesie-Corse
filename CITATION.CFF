@@ -9,6 +9,9 @@ authors:
   given-names: "Adrien"
 - family-names: "Saïag"
   given-names: "Violette"
+- family-names: "Gabay"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0001-9094-4475"
 title: "OCR d'une poésie corse"
 version: 1.0
 doi: 10.5281/zenodo.6126641 
