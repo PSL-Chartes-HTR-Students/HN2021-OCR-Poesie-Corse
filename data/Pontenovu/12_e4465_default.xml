@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1917" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT770" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT771" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -607,17 +607,17 @@
           
           <TextLine ID="eSc_line_45fa79c7"
                     TAGREFS="LT770"
-                    BASELINE="379 2892 1390 2888" 
-                    HPOS="368"
-                    VPOS="2836"
-                    WIDTH="11"
-                    HEIGHT="89">
-            <Shape><Polygon POINTS="379 2925 376 2925 376 2888 368 2836 379 2836"/></Shape>
+                    BASELINE="379 2892 839 2890 1390 2888" 
+                    HPOS="372"
+                    VPOS="2825"
+                    WIDTH="1014"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="376 2888 376 2917 1386 2903 1386 2884 1375 2825 372 2825 376 2888"/></Shape>
 	    <String CONTENT="ses et prussiens que commandait"
-                    HPOS="368"
-                    VPOS="2836"
-                    WIDTH="11"
-                    HEIGHT="89"></String>
+                    HPOS="372"
+                    VPOS="2825"
+                    WIDTH="1014"
+                    HEIGHT="92"></String>
           </TextLine>
 
           
@@ -641,17 +641,17 @@
           
           <TextLine ID="eSc_line_d737e710"
                     TAGREFS="LT770"
-                    BASELINE="379 3032 1368 3024" 
-                    HPOS="376"
-                    VPOS="2999"
-                    WIDTH="3"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="379 3049 376 3050 376 3002 379 2999"/></Shape>
+                    BASELINE="379 3032 819 3028 1368 3024" 
+                    HPOS="372"
+                    VPOS="2969"
+                    WIDTH="992"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="376 3028 376 3061 1360 3050 1364 3021 1353 2969 372 2973 376 3028"/></Shape>
 	    <String CONTENT="dire l’accès du pont aux fuyards."
-                    HPOS="376"
-                    VPOS="2999"
-                    WIDTH="3"
-                    HEIGHT="51"></String>
+                    HPOS="372"
+                    VPOS="2969"
+                    WIDTH="992"
+                    HEIGHT="92"></String>
           </TextLine>
 
           
@@ -709,51 +709,51 @@
           
           <TextLine ID="eSc_line_d7f293e4"
                     TAGREFS="LT770"
-                    BASELINE="379 3315 1368 3304" 
-                    HPOS="376"
-                    VPOS="3273"
-                    WIDTH="3"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="379 3330 376 3330 376 3286 379 3273"/></Shape>
+                    BASELINE="379 3315 809 3310 1368 3304" 
+                    HPOS="372"
+                    VPOS="3238"
+                    WIDTH="992"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="376 3312 376 3341 1360 3326 1364 3301 1353 3238 372 3253 376 3312"/></Shape>
 	    <String CONTENT="heures de l’après-midi, c’est-à-dire"
-                    HPOS="376"
-                    VPOS="3273"
-                    WIDTH="3"
-                    HEIGHT="57"></String>
+                    HPOS="372"
+                    VPOS="3238"
+                    WIDTH="992"
+                    HEIGHT="103"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_761725c8"
                     TAGREFS="LT770"
-                    BASELINE="379 3382 1390 3373" 
+                    BASELINE="379 3382 834 3378 1390 3373" 
                     HPOS="372"
-                    VPOS="3315"
-                    WIDTH="7"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="379 3400 372 3400 376 3378 372 3315 379 3315"/></Shape>
+                    VPOS="3312"
+                    WIDTH="1014"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="376 3378 376 3400 1379 3404 1386 3371 1379 3319 372 3312 376 3378"/></Shape>
 	    <String CONTENT="beaucoup plus tôt que ne le vou¬"
                     HPOS="372"
-                    VPOS="3315"
-                    WIDTH="7"
-                    HEIGHT="85"></String>
+                    VPOS="3312"
+                    WIDTH="1014"
+                    HEIGHT="92"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_82f08db4"
                     TAGREFS="LT770"
-                    BASELINE="379 3455 1390 3448" 
-                    HPOS="376"
-                    VPOS="3389"
-                    WIDTH="3"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="379 3463 376 3463 376 3426 376 3389 379 3390"/></Shape>
+                    BASELINE="379 3455 834 3452 1390 3448" 
+                    HPOS="372"
+                    VPOS="3374"
+                    WIDTH="1014"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="814 3378 778 3378 741 3378 704 3378 667 3378 630 3378 593 3378 556 3378 519 3378 483 3378 446 3378 409 3378 372 3378 376 3452 376 3474 1382 3463 1386 3444 1375 3374 829 3374 814 3378"/></Shape>
 	    <String CONTENT="lait Paoli. Les Corses sortis de leurs"
-                    HPOS="376"
-                    VPOS="3389"
-                    WIDTH="3"
-                    HEIGHT="74"></String>
+                    HPOS="372"
+                    VPOS="3374"
+                    WIDTH="1014"
+                    HEIGHT="100"></String>
           </TextLine>
 
           

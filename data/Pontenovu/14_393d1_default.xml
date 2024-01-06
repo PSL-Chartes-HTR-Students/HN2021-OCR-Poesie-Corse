@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1917" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT770" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT771" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -379,17 +379,17 @@
           
           <TextLine ID="eSc_line_0da20b84"
                     TAGREFS="LT770"
-                    BASELINE="1310 987 2306 992" 
-                    HPOS="1295"
-                    VPOS="926"
-                    WIDTH="15"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="1310 1018 1295 1018 1298 985 1298 926 1310 926"/></Shape>
+                    BASELINE="1310 987 1790 989 2306 992" 
+                    HPOS="1306"
+                    VPOS="929"
+                    WIDTH="997"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1309 985 1306 1014 2299 1010 2303 988 2299 929 1309 929 1309 985"/></Shape>
 	    <String CONTENT="a retardé de cent ans la libération"
-                    HPOS="1295"
-                    VPOS="926"
-                    WIDTH="15"
-                    HEIGHT="92"></String>
+                    HPOS="1306"
+                    VPOS="929"
+                    WIDTH="997"
+                    HEIGHT="85"></String>
           </TextLine>
 
           

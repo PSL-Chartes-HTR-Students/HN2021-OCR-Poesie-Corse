@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1917" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT770" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT771" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -318,34 +318,34 @@
           
           <TextLine ID="eSc_line_9ce2c3b9"
                     TAGREFS="LT770"
-                    BASELINE="521 1811 1537 1808" 
-                    HPOS="504"
-                    VPOS="1731"
-                    WIDTH="17"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="521 1834 512 1834 512 1811 504 1731 520 1731"/></Shape>
+                    BASELINE="521 1811 886 1810 1537 1808" 
+                    HPOS="516"
+                    VPOS="1743"
+                    WIDTH="1017"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="520 1808 520 1830 1526 1834 1533 1804 1526 1746 516 1743 520 1808"/></Shape>
 	    <String CONTENT="Général sur Vivario, sur Bastelica"
-                    HPOS="504"
-                    VPOS="1731"
-                    WIDTH="17"
-                    HEIGHT="103"></String>
+                    HPOS="516"
+                    VPOS="1743"
+                    WIDTH="1017"
+                    HEIGHT="91"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_6ab9bb7b"
                     TAGREFS="LT770"
-                    BASELINE="521 1884 1549 1884" 
-                    HPOS="508"
+                    BASELINE="521 1884 1066 1884 1549 1884" 
+                    HPOS="520"
                     VPOS="1823"
-                    WIDTH="13"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="521 1903 508 1903 512 1880 512 1823 521 1823"/></Shape>
+                    WIDTH="1025"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="520 1880 520 1918 1545 1918 1545 1880 1545 1823 520 1823 520 1880"/></Shape>
 	    <String CONTENT="où la population lui offrit encore un"
-                    HPOS="508"
+                    HPOS="520"
                     VPOS="1823"
-                    WIDTH="13"
-                    HEIGHT="80"></String>
+                    WIDTH="1025"
+                    HEIGHT="95"></String>
           </TextLine>
 
           
@@ -369,85 +369,85 @@
           
           <TextLine ID="eSc_line_d6dca39d"
                     TAGREFS="LT770"
-                    BASELINE="521 2025 1541 2025" 
-                    HPOS="512"
-                    VPOS="1964"
-                    WIDTH="9"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="521 2060 512 2060 512 2025 512 1964 521 1964"/></Shape>
+                    BASELINE="521 2025 913 2025 1541 2025" 
+                    HPOS="520"
+                    VPOS="1960"
+                    WIDTH="1017"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="520 2022 520 2060 1537 2060 1537 2022 1537 1964 520 1960 520 2022"/></Shape>
 	    <String CONTENT="sur Porto-Vecchio où il s’embarqua"
-                    HPOS="512"
-                    VPOS="1964"
-                    WIDTH="9"
-                    HEIGHT="96"></String>
+                    HPOS="520"
+                    VPOS="1960"
+                    WIDTH="1017"
+                    HEIGHT="100"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_839bbcd4"
                     TAGREFS="LT770"
-                    BASELINE="521 2098 1545 2098" 
-                    HPOS="508"
-                    VPOS="2037"
-                    WIDTH="13"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="521 2121 512 2121 512 2098 508 2037 521 2037"/></Shape>
+                    BASELINE="521 2098 929 2098 1545 2098" 
+                    HPOS="520"
+                    VPOS="2029"
+                    WIDTH="1021"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="520 2094 520 2117 1537 2129 1541 2094 1541 2033 520 2029 520 2094"/></Shape>
 	    <String CONTENT="le 13 juin pour Livourne. Il avait"
-                    HPOS="508"
-                    VPOS="2037"
-                    WIDTH="13"
-                    HEIGHT="84"></String>
+                    HPOS="520"
+                    VPOS="2029"
+                    WIDTH="1021"
+                    HEIGHT="100"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_ab25c255"
                     TAGREFS="LT770"
-                    BASELINE="521 2171 1534 2171" 
-                    HPOS="504"
-                    VPOS="2110"
-                    WIDTH="17"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="521 2190 508 2190 508 2167 504 2110 521 2110"/></Shape>
+                    BASELINE="521 2171 955 2171 1534 2171" 
+                    HPOS="520"
+                    VPOS="2102"
+                    WIDTH="1013"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="520 2167 520 2197 1533 2186 1533 2167 1530 2102 520 2106 520 2167"/></Shape>
 	    <String CONTENT="compris que la Corse était trahie"
-                    HPOS="504"
-                    VPOS="2110"
-                    WIDTH="17"
-                    HEIGHT="80"></String>
+                    HPOS="520"
+                    VPOS="2102"
+                    WIDTH="1013"
+                    HEIGHT="95"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_7cd007ed"
                     TAGREFS="LT770"
-                    BASELINE="521 2239 1534 2238" 
-                    HPOS="504"
+                    BASELINE="521 2239 960 2239 1534 2238" 
+                    HPOS="520"
                     VPOS="2182"
-                    WIDTH="17"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="521 2259 504 2259 508 2236 508 2182 520 2182"/></Shape>
+                    WIDTH="1013"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="520 2236 520 2262 1530 2266 1533 2236 1533 2182 520 2182 520 2236"/></Shape>
 	    <String CONTENT="et que, pour le moment du moins,"
-                    HPOS="504"
+                    HPOS="520"
                     VPOS="2182"
-                    WIDTH="17"
-                    HEIGHT="77"></String>
+                    WIDTH="1013"
+                    HEIGHT="84"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_76e85daa"
                     TAGREFS="LT770"
-                    BASELINE="521 2312 1327 2312" 
-                    HPOS="504"
-                    VPOS="2247"
-                    WIDTH="17"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="521 2331 504 2331 508 2312 508 2247 521 2247"/></Shape>
+                    BASELINE="521 2312 966 2312 966 2312 1327 2312" 
+                    HPOS="520"
+                    VPOS="2243"
+                    WIDTH="803"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="520 2308 520 2350 1323 2350 1323 2308 1323 2251 520 2243 520 2308"/></Shape>
 	    <String CONTENT="il fallait renoncer à résister."
-                    HPOS="504"
-                    VPOS="2247"
-                    WIDTH="17"
-                    HEIGHT="84"></String>
+                    HPOS="520"
+                    VPOS="2243"
+                    WIDTH="803"
+                    HEIGHT="107"></String>
           </TextLine>
 
           
