@@ -31,3 +31,7 @@ Bien qu'il ne s'agisse pas réellement d'un recueil de poèmes, le style d'écri
 
 Alors que le premier ouvrage a été trouvé sur `gallica`, le second a été téléchargé depuis la plateforme `bucullezzione` de l'Università di Corsica Pasquale Paoli. 
 Il n'est donc disponible qu'en format PDF à l'inverse de *Pontenôvu* disponible en IIIF.
+
+# Corrections
+
+Lourdes correction + adaptation segmonto
