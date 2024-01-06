@@ -34,4 +34,4 @@ Il n'est donc disponible qu'en format PDF à l'inverse de *Pontenôvu* disponibl
 
 # Corrections
 
-Lourdes correction + adaptation segmonto
+Lourdes correction + adaptation segmonto: Simon Gabay
