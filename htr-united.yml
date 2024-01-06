@@ -144,7 +144,7 @@ time:
   notAfter: '1927'
   notBefore: '1926'
 title: OCR Corse
-transcription-guidelines: 'SegmOnto'
+transcription-guidelines: SegmOnto
 url: https://github.com/PSL-Chartes-HTR-Students/HN2021-OCR-Poesie-Corse
 volume:
 - count: 41205
