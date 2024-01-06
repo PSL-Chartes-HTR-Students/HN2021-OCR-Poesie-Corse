@@ -13,7 +13,7 @@ Il s'agit d'un devoir réalisé dans le cadre du cours de Thibault Clérice réa
 
 # Données
 
-Les vérités de terrains se trouvent au chemin UNIX `./Transcriptions/**/data/*.xml`.
+Les vérités de terrains se trouvent au chemin UNIX `./data/**/*.xml`.
 
 # Description des oeuvres
 
