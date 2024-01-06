@@ -79,13 +79,13 @@ characters:
   - T
   - '2'
   - '0'
-  - '3'
   - «
+  - '3'
   - '6'
   - y
+  - »
   - '5'
   - ̧
-  - »
   - (
   - )
   - —
@@ -94,9 +94,9 @@ characters:
   - °
   - H
   - '*'
-  - '"'
   - X
   - œ
+  - '"'
   - ̈
   - K
   - ^
@@ -147,5 +147,5 @@ volume:
   metric: files
 - count: 1683
   metric: lines
-- count: 144
+- count: 129
   metric: regions
