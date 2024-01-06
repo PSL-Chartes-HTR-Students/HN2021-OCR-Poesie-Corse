@@ -1,5 +1,7 @@
 # Projet d'OCR d'une poésie corse
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
 [![DOI](https://zenodo.org/badge/434214989.svg)](https://zenodo.org/badge/latestdoi/434214989)
 
 L'objectif de ce travail est d'océriser un receuil de poème corse d'une quarantaine de pages.
