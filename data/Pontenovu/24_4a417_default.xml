@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>24_4a417_default.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1913" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT1914" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1915" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1916" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1917" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT770" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT771" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2907"
+          HEIGHT="4415"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2907"
+                  HEIGHT="4415">
+        
+        <TextBlock HPOS="627"
+                   VPOS="636"
+                   WIDTH="1554"
+                   HEIGHT="1304"
+                   ID="eSc_textblock_e95b7f5c"
+                   TAGREFS="BT1916">
+          <Shape><Polygon POINTS="627 636 627 1940 2181 1940 2181 636"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f3a81838"
+                    TAGREFS="LT771"
+                    BASELINE="894 721 2126 721" 
+                    HPOS="890"
+                    VPOS="636"
+                    WIDTH="1236"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="894 721 894 636 2126 636 2126 721 2123 765 890 750"/></Shape>
+	    <String CONTENT="S’ellu ciè un Corsu..... ingratu ?"
+                    HPOS="890"
+                    VPOS="636"
+                    WIDTH="1236"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f16bc0e"
+                    TAGREFS="LT770"
+                    BASELINE="669 901 1909 908" 
+                    HPOS="662"
+                    VPOS="827"
+                    WIDTH="1247"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="669 901 669 827 1906 831 1909 908 1902 938 662 919"/></Shape>
+	    <String CONTENT="Un lamentu trafalca l’erchi e sponde,"
+                    HPOS="662"
+                    VPOS="827"
+                    WIDTH="1247"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_329e9151"
+                    TAGREFS="LT770"
+                    BASELINE="669 986 1924 993" 
+                    HPOS="662"
+                    VPOS="908"
+                    WIDTH="1262"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="669 986 669 908 1920 912 1924 993 1917 1015 662 1004"/></Shape>
+	    <String CONTENT="Ramentu ! mughia Golu sanguinosu;"
+                    HPOS="662"
+                    VPOS="908"
+                    WIDTH="1262"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba639c68"
+                    TAGREFS="LT770"
+                    BASELINE="669 1066 1821 1074" 
+                    HPOS="662"
+                    VPOS="997"
+                    WIDTH="1159"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="669 1066 669 997 1817 1011 1821 1074 1817 1100 1258 1118 1254 1118 1254 1118 1251 1118 1181 1100 835 1114 831 1114 831 1114 662 1092"/></Shape>
+	    <String CONTENT="D’un scialu neru so fasciate l’onde."
+                    HPOS="662"
+                    VPOS="997"
+                    WIDTH="1159"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43f5c0ba"
+                    TAGREFS="LT770"
+                    BASELINE="669 1228 1898 1239" 
+                    HPOS="662"
+                    VPOS="1144"
+                    WIDTH="1236"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="669 1228 669 1144 769 1162 1203 1155 1468 1151 1471 1151 1471 1151 1475 1151 1475 1151 1475 1151 1479 1151 1479 1151 1490 1162 1501 1173 1898 1173 1898 1239 1891 1258 662 1247"/></Shape>
+	    <String CONTENT="Ramentu! mughia Golu sanguinosu,"
+                    HPOS="662"
+                    VPOS="1144"
+                    WIDTH="1236"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_341b1e2a"
+                    TAGREFS="LT770"
+                    BASELINE="673 1313 1681 1320" 
+                    HPOS="669"
+                    VPOS="1236"
+                    WIDTH="1012"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="673 1313 673 1236 1677 1258 1681 1320 1677 1346 669 1346"/></Shape>
+	    <String CONTENT="Da l’erca piena sorte la so voce,"
+                    HPOS="669"
+                    VPOS="1236"
+                    WIDTH="1012"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_141e4566"
+                    TAGREFS="LT770"
+                    BASELINE="662 1401 1920 1401" 
+                    HPOS="658"
+                    VPOS="1324"
+                    WIDTH="1262"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="662 1401 658 1328 1917 1324 1920 1401 1920 1423 662 1431"/></Shape>
+	    <String CONTENT="E perche un tremi tu? O vergugnosu !!"
+                    HPOS="658"
+                    VPOS="1324"
+                    WIDTH="1262"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b294b341"
+                    TAGREFS="LT770"
+                    BASELINE="666 1563 1696 1563" 
+                    HPOS="662"
+                    VPOS="1479"
+                    WIDTH="1034"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="666 1563 662 1497 1457 1479 1460 1479 1460 1479 1464 1479 1464 1479 1464 1479 1468 1479 1468 1479 1493 1497 1493 1501 1696 1501 1696 1563 1696 1596 666 1596"/></Shape>
+	    <String CONTENT="Da l’erca piena sorte la so voce,"
+                    HPOS="662"
+                    VPOS="1479"
+                    WIDTH="1034"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c75bdf23"
+                    TAGREFS="LT770"
+                    BASELINE="662 1640 1788 1648" 
+                    HPOS="654"
+                    VPOS="1571"
+                    WIDTH="1134"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="662 1640 662 1571 1784 1582 1788 1648 1780 1670 654 1662"/></Shape>
+	    <String CONTENT="Boce di la Ragione, in fronte cinta,"
+                    HPOS="654"
+                    VPOS="1571"
+                    WIDTH="1134"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_441023ac"
+                    TAGREFS="LT770"
+                    BASELINE="662 1729 2009 1729" 
+                    HPOS="662"
+                    VPOS="1644"
+                    WIDTH="1347"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="662 1729 662 1651 1490 1662 1534 1644 1538 1644 1538 1644 1541 1644 1541 1644 1541 1644 1545 1644 1545 1644 1549 1644 1549 1644 1549 1644 1552 1644 1552 1644 1552 1644 1578 1666 1751 1666 1784 1644 1788 1644 1788 1644 1788 1644 1788 1644 1792 1644 1792 1644 1795 1644 2009 1644 2009 1729 2009 1751 662 1751"/></Shape>
+	    <String CONTENT="Chi, da Forza, ferita.... un&#39;è ancu binta !!"
+                    HPOS="662"
+                    VPOS="1644"
+                    WIDTH="1347"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a99e5d5f"
+                    TAGREFS="LT770"
+                    BASELINE="662 1802 2068 1810" 
+                    HPOS="654"
+                    VPOS="1736"
+                    WIDTH="1414"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="662 1802 658 1743 2060 1736 2068 1810 2064 1839 1368 1857 1365 1857 1365 1857 1361 1857 1361 1857 1361 1857 1357 1857 1328 1839 758 1854 754 1854 754 1854 754 1854 654 1832"/></Shape>
+	    <String CONTENT="« Quì babitu cascò !... é un ciè una croce ! »"
+                    HPOS="654"
+                    VPOS="1736"
+                    WIDTH="1414"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9684722e"
+                    TAGREFS="LT771"
+                    BASELINE="1674 1909 2134 1902" 
+                    HPOS="1666"
+                    VPOS="1824"
+                    WIDTH="468"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1674 1909 1666 1832 2123 1824 2134 1902 2134 1927 1674 1938"/></Shape>
+	    <String CONTENT="A. F. Tristani."
+                    HPOS="1666"
+                    VPOS="1824"
+                    WIDTH="468"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1431"
+                   VPOS="548"
+                   WIDTH="103"
+                   HEIGHT="83"
+                   ID="eSc_textblock_2e849bb5"
+                   TAGREFS="BT1914">
+          <Shape><Polygon POINTS="1431 548 1431 631 1534 631 1534 548"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_272a9a71"
+                    TAGREFS="LT770"
+                    BASELINE="1458 612 1521 610" 
+                    HPOS="1449"
+                    VPOS="548"
+                    WIDTH="70"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1486 548 1449 548 1457 610 1457 618 1519 618 1519 607 1512 548 1486 548"/></Shape>
+	    <String CONTENT="19"
+                    HPOS="1449"
+                    VPOS="548"
+                    WIDTH="70"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="804"
+                   VPOS="2298"
+                   WIDTH="1382"
+                   HEIGHT="162"
+                   ID="eSc_textblock_f89c13b7"
+                   TAGREFS="BT1916">
+          <Shape><Polygon POINTS="804 2298 804 2460 2186 2460 2186 2298"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_95355c2a"
+                    TAGREFS="LT771"
+                    BASELINE="820 2413 2123 2406" 
+                    HPOS="813"
+                    VPOS="2284"
+                    WIDTH="1310"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="820 2413 813 2288 967 2288 971 2288 975 2288 975 2292 1030 2321 1280 2306 1284 2306 1287 2306 1346 2325 1464 2303 1471 2303 1475 2303 1479 2303 1482 2303 1549 2321 1608 2306 1696 2284 1700 2284 1703 2284 1769 2284 1773 2284 1777 2284 1777 2288 1803 2310 1810 2321 2115 2321 2123 2406 2115 2439 816 2431"/></Shape>
+	    <String CONTENT="Mancu una Croce"
+                    HPOS="813"
+                    VPOS="2284"
+                    WIDTH="1310"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="486"
+                   VPOS="2518"
+                   WIDTH="978"
+                   HEIGHT="1192"
+                   ID="eSc_textblock_62dbcce1"
+                   TAGREFS="BT1916">
+          <Shape><Polygon POINTS="486 2518 486 3710 1464 3710 1464 2518"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_caa257d7"
+                    TAGREFS="LT770"
+                    BASELINE="507 2608 1203 2601" 
+                    HPOS="500"
+                    VPOS="2531"
+                    WIDTH="703"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="507 2608 500 2531 1195 2534 1203 2601 1203 2619 507 2626"/></Shape>
+	    <String CONTENT="Corri u fium’ingrussatu"
+                    HPOS="500"
+                    VPOS="2531"
+                    WIDTH="703"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_212749c0"
+                    TAGREFS="LT770"
+                    BASELINE="511 2674 1137 2682" 
+                    HPOS="507"
+                    VPOS="2608"
+                    WIDTH="630"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="511 2674 511 2608 1133 2623 1137 2682 1133 2700 507 2700"/></Shape>
+	    <String CONTENT="Da i nevi d’i monti."
+                    HPOS="507"
+                    VPOS="2608"
+                    WIDTH="630"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e95c9021"
+                    TAGREFS="LT770"
+                    BASELINE="574 2752 1041 2752" 
+                    HPOS="574"
+                    VPOS="2674"
+                    WIDTH="467"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="574 2752 574 2674 1041 2689 1041 2752 1041 2781 574 2781"/></Shape>
+	    <String CONTENT="L&#39;acqua torbida,"
+                    HPOS="574"
+                    VPOS="2674"
+                    WIDTH="467"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ebb406d"
+                    TAGREFS="LT770"
+                    BASELINE="511 2825 1457 2818" 
+                    HPOS="504"
+                    VPOS="2752"
+                    WIDTH="953"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="511 2825 504 2763 1446 2752 1457 2818 1449 2858 507 2847"/></Shape>
+	    <String CONTENT="Affannata, dà l’assalt’a ogni scogliu."
+                    HPOS="504"
+                    VPOS="2752"
+                    WIDTH="953"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4235d786"
+                    TAGREFS="LT770"
+                    BASELINE="511 2895 1346 2888" 
+                    HPOS="507"
+                    VPOS="2829"
+                    WIDTH="839"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="511 2895 507 2829 1339 2832 1346 2888 1343 2917 511 2928"/></Shape>
+	    <String CONTENT="Mughia u Golu a boce piena"
+                    HPOS="507"
+                    VPOS="2829"
+                    WIDTH="839"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7eaa4f4"
+                    TAGREFS="LT770"
+                    BASELINE="559 2965 1159 2965" 
+                    HPOS="555"
+                    VPOS="2888"
+                    WIDTH="604"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="559 2965 555 2899 1155 2888 1159 2965 1159 2983 559 2983"/></Shape>
+	    <String CONTENT="Di rabbios&#39;orgogliu"
+                    HPOS="555"
+                    VPOS="2888"
+                    WIDTH="604"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0df5ce75"
+                    TAGREFS="LT770"
+                    BASELINE="507 3035 1070 3027" 
+                    HPOS="500"
+                    VPOS="2958"
+                    WIDTH="570"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="507 3035 500 2958 1063 2969 1070 3027 1067 3046 507 3053"/></Shape>
+	    <String CONTENT="D’un pudessi purtà"
+                    HPOS="500"
+                    VPOS="2958"
+                    WIDTH="570"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbfe5240"
+                    TAGREFS="LT770"
+                    BASELINE="500 3108 1206 3101" 
+                    HPOS="493"
+                    VPOS="3024"
+                    WIDTH="713"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="500 3108 493 3050 780 3050 787 3046 850 3024 853 3024 853 3024 853 3024 857 3024 857 3024 857 3024 861 3024 923 3042 923 3042 923 3042 1056 3024 1056 3024 1059 3024 1059 3024 1199 3042 1206 3101 1203 3123 500 3130"/></Shape>
+	    <String CONTENT="In mari quillu ponti..."
+                    HPOS="493"
+                    VPOS="3024"
+                    WIDTH="713"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c486e9b2"
+                    TAGREFS="LT770"
+                    BASELINE="500 3237 1229 3237" 
+                    HPOS="500"
+                    VPOS="3178"
+                    WIDTH="729"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="500 3237 500 3178 1229 3178 1229 3237 1229 3259 500 3259"/></Shape>
+	    <String CONTENT="Quillu ponti ghiastimatu"
+                    HPOS="500"
+                    VPOS="3178"
+                    WIDTH="729"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20c9b5c7"
+                    TAGREFS="LT770"
+                    BASELINE="504 3303 1199 3303" 
+                    HPOS="504"
+                    VPOS="3245"
+                    WIDTH="695"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="504 3303 504 3245 1199 3245 1199 3303 1199 3322 504 3325"/></Shape>
+	    <String CONTENT="Chi vidi l’ultimu sforzu"
+                    HPOS="504"
+                    VPOS="3245"
+                    WIDTH="695"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_833e049f"
+                    TAGREFS="LT770"
+                    BASELINE="507 3377 1177 3377" 
+                    HPOS="504"
+                    VPOS="3303"
+                    WIDTH="673"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="507 3377 507 3303 1177 3314 1177 3377 1173 3403 504 3392"/></Shape>
+	    <String CONTENT="D’una razza sfurtunata"
+                    HPOS="504"
+                    VPOS="3303"
+                    WIDTH="673"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdaacb06"
+                    TAGREFS="LT770"
+                    BASELINE="504 3447 1350 3440" 
+                    HPOS="500"
+                    VPOS="3370"
+                    WIDTH="850"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="504 3447 500 3370 1343 3381 1350 3440 1343 3473 500 3469"/></Shape>
+	    <String CONTENT="Di poi chi u mondu esisti..."
+                    HPOS="500"
+                    VPOS="3370"
+                    WIDTH="850"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4125f9b"
+                    TAGREFS="LT770"
+                    BASELINE="504 3517 1188 3509" 
+                    HPOS="500"
+                    VPOS="3454"
+                    WIDTH="688"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="504 3517 500 3454 1181 3458 1188 3509 1188 3546 504 3550"/></Shape>
+	    <String CONTENT="Duv’ellu si devi passà"
+                    HPOS="500"
+                    VPOS="3454"
+                    WIDTH="688"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8df7106a"
+                    TAGREFS="LT770"
+                    BASELINE="511 3587 1287 3587" 
+                    HPOS="507"
+                    VPOS="3524"
+                    WIDTH="780"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="511 3587 511 3524 1287 3528 1287 3587 1284 3612 507 3605"/></Shape>
+	    <String CONTENT="Côri strinti, muti e tristi"
+                    HPOS="507"
+                    VPOS="3524"
+                    WIDTH="780"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dabede6"
+                    TAGREFS="LT770"
+                    BASELINE="511 3660 1453 3649" 
+                    HPOS="507"
+                    VPOS="3587"
+                    WIDTH="946"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="511 3660 507 3587 1446 3590 1453 3649 1446 3682 835 3682 511 3708"/></Shape>
+	    <String CONTENT="Se si ha sempri sangui côrsu."
+                    HPOS="507"
+                    VPOS="3587"
+                    WIDTH="946"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1490"
+                   VPOS="2539"
+                   WIDTH="1028"
+                   HEIGHT="1235"
+                   ID="eSc_textblock_1bf489f0"
+                   TAGREFS="BT1916">
+          <Shape><Polygon POINTS="1510 2539 1490 3774 2518 3751 2518 2539"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a14ad10"
+                    TAGREFS="LT770"
+                    BASELINE="1549 2608 2505 2601" 
+                    HPOS="1541"
+                    VPOS="2531"
+                    WIDTH="964"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1549 2608 1541 2538 2494 2531 2505 2601 2505 2623 1549 2626"/></Shape>
+	    <String CONTENT="Capi nudu in a notti d’a Foce"
+                    HPOS="1541"
+                    VPOS="2531"
+                    WIDTH="964"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a82d464e"
+                    TAGREFS="LT770"
+                    BASELINE="1552 2682 2413 2682" 
+                    HPOS="1552"
+                    VPOS="2623"
+                    WIDTH="861"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1552 2682 1552 2623 2413 2623 2413 2682 2413 2700 1552 2715"/></Shape>
+	    <String CONTENT="Stò pinzendu, sguardu persu,"
+                    HPOS="1552"
+                    VPOS="2623"
+                    WIDTH="861"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebe8b077"
+                    TAGREFS="LT770"
+                    BASELINE="1556 2752 2204 2752" 
+                    HPOS="1556"
+                    VPOS="2693"
+                    WIDTH="648"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1556 2752 1556 2693 2204 2693 2204 2752 2204 2766 1556 2770"/></Shape>
+	    <String CONTENT="A quill&#39;ôra sanguinosa"
+                    HPOS="1556"
+                    VPOS="2693"
+                    WIDTH="648"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52b2f325"
+                    TAGREFS="LT770"
+                    BASELINE="1552 2821 2079 2814" 
+                    HPOS="1545"
+                    VPOS="2759"
+                    WIDTH="534"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1552 2821 1545 2766 2068 2759 2079 2814 2075 2836 1549 2832"/></Shape>
+	    <String CONTENT="Chi Golu vô lavà."
+                    HPOS="1545"
+                    VPOS="2759"
+                    WIDTH="534"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da6ad4cc"
+                    TAGREFS="LT770"
+                    BASELINE="1556 2891 2031 2891" 
+                    HPOS="1556"
+                    VPOS="2825"
+                    WIDTH="475"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1556 2891 1556 2825 2031 2829 2031 2891 2031 2906 1556 2910"/></Shape>
+	    <String CONTENT="D’acqua nivosa."
+                    HPOS="1556"
+                    VPOS="2825"
+                    WIDTH="475"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_385ec52f"
+                    TAGREFS="LT770"
+                    BASELINE="1556 3013 2384 3002" 
+                    HPOS="1538"
+                    VPOS="2928"
+                    WIDTH="846"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1556 3013 1538 2965 1560 2939 1563 2939 1563 2935 1563 2935 1567 2935 1567 2935 1567 2935 1571 2935 1571 2935 1571 2935 1574 2935 1784 2954 1814 2954 2373 2928 2384 3002 2380 3038 1556 3038"/></Shape>
+	    <String CONTENT="Un gridu mi sona in pettu !"
+                    HPOS="1538"
+                    VPOS="2928"
+                    WIDTH="846"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfa64c3e"
+                    TAGREFS="LT770"
+                    BASELINE="1560 3086 2263 3086" 
+                    HPOS="1560"
+                    VPOS="3013"
+                    WIDTH="703"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1560 3086 1560 3013 2263 3027 2263 3086 2263 3097 1560 3108"/></Shape>
+	    <String CONTENT="Mi par di sent&#39;una boce..."
+                    HPOS="1560"
+                    VPOS="3013"
+                    WIDTH="703"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ff7fdab"
+                    TAGREFS="LT770"
+                    BASELINE="1556 3156 2204 3145" 
+                    HPOS="1549"
+                    VPOS="3075"
+                    WIDTH="655"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1556 3156 1549 3094 2193 3075 2204 3145 2200 3164 1556 3175"/></Shape>
+	    <String CONTENT="Ma chi dici stu gridu"
+                    HPOS="1549"
+                    VPOS="3075"
+                    WIDTH="655"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c68bcc03"
+                    TAGREFS="LT770"
+                    BASELINE="1556 3226 2233 3211" 
+                    HPOS="1541"
+                    VPOS="3142"
+                    WIDTH="692"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1556 3226 1541 3175 1571 3153 1571 3153 1574 3153 1574 3153 1578 3153 1578 3153 1578 3153 1582 3153 1582 3153 1700 3167 1703 3167 1703 3167 1714 3153 1718 3153 1718 3149 1718 3149 1722 3149 1722 3149 1722 3149 1725 3149 1725 3149 1729 3149 1729 3149 1836 3160 1876 3164 2222 3142 2233 3211 2229 3233 1556 3256"/></Shape>
+	    <String CONTENT="Tamant&#39;in stu rimore ?"
+                    HPOS="1541"
+                    VPOS="3142"
+                    WIDTH="692"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f20e498b"
+                    TAGREFS="LT770"
+                    BASELINE="1556 3296 2384 3285" 
+                    HPOS="1549"
+                    VPOS="3226"
+                    WIDTH="835"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1556 3296 1549 3241 2373 3226 2384 3285 2380 3307 1556 3318"/></Shape>
+	    <String CONTENT="Di qual&#39;è sta chiama sperza"
+                    HPOS="1549"
+                    VPOS="3226"
+                    WIDTH="835"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29e8705d"
+                    TAGREFS="LT770"
+                    BASELINE="1552 3370 2417 3351" 
+                    HPOS="1541"
+                    VPOS="3278"
+                    WIDTH="876"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1552 3370 1541 3296 2406 3278 2417 3351 2417 3381 1552 3388"/></Shape>
+	    <String CONTENT="Chi ribomba in u me core?"
+                    HPOS="1541"
+                    VPOS="3278"
+                    WIDTH="876"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8559196f"
+                    TAGREFS="LT770"
+                    BASELINE="1552 3476 2252 3465" 
+                    HPOS="1545"
+                    VPOS="3410"
+                    WIDTH="707"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1552 3476 1545 3425 2240 3410 2252 3465 2248 3491 1552 3502"/></Shape>
+	    <String CONTENT="E la notti mi rispondi :"
+                    HPOS="1545"
+                    VPOS="3410"
+                    WIDTH="707"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_999c3983"
+                    TAGREFS="LT770"
+                    BASELINE="1549 3550 2413 3539" 
+                    HPOS="1541"
+                    VPOS="3473"
+                    WIDTH="872"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1549 3550 1541 3473 2406 3480 2413 3539 2413 3554 2296 3576 2296 3576 2292 3576 1839 3565 1810 3583 1806 3583 1806 3583 1806 3583 1803 3583 1803 3583 1803 3583 1799 3583 1545 3565"/></Shape>
+	    <String CONTENT="« I morti vôn’una croce!... »"
+                    HPOS="1541"
+                    VPOS="3473"
+                    WIDTH="872"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2aafb87"
+                    TAGREFS="LT771"
+                    BASELINE="2182 3627 2439 3627" 
+                    HPOS="2178"
+                    VPOS="3532"
+                    WIDTH="261"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="2182 3627 2178 3550 2435 3532 2439 3627 2435 3686 2240 3657 2182 3668"/></Shape>
+	    <String CONTENT="D&#39;Aresi."
+                    HPOS="2178"
+                    VPOS="3532"
+                    WIDTH="261"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_827a66d8"
+                    TAGREFS="LT770"
+                    BASELINE="1505 3719 2222 3704" 
+                    HPOS="1493"
+                    VPOS="3642"
+                    WIDTH="729"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1505 3719 1493 3646 2211 3642 2222 3704 2222 3745 1505 3774"/></Shape>
+	    <String CONTENT="(Dialettu bastrigacciu)"
+                    HPOS="1493"
+                    VPOS="3642"
+                    WIDTH="729"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

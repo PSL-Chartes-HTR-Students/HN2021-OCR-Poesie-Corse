@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_39.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1798"
+          HEIGHT="2970"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1798"
+                  HEIGHT="2970">
+        
+        <TextBlock HPOS="634"
+                   VPOS="366"
+                   WIDTH="300"
+                   HEIGHT="103"
+                   ID="eSc_textblock_c33a3e76"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="634 366 634 469 934 469 934 366"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dfb33809"
+                    TAGREFS="LT768"
+                    BASELINE="669 442 915 439" 
+                    HPOS="666"
+                    VPOS="358"
+                    WIDTH="247"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="668 440 668 447 908 455 913 438 908 376 767 358 765 358 762 358 760 358 760 361 740 376 740 378 666 378 668 440"/></Shape>
+	    <String CONTENT="– 37 –"
+                    HPOS="666"
+                    VPOS="358"
+                    WIDTH="247"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="233"
+                   VPOS="493"
+                   WIDTH="1062"
+                   HEIGHT="310"
+                   ID="eSc_textblock_13f6f00e"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="233 493 233 803 1295 803 1295 493"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0768e139"
+                    TAGREFS="LT768"
+                    BASELINE="324 559 1258 554" 
+                    HPOS="314"
+                    VPOS="480"
+                    WIDTH="944"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="324 559 314 499 356 482 356 482 359 482 359 482 359 482 361 482 361 482 453 497 470 499 475 497 492 482 492 482 495 482 495 482 495 482 497 482 497 482 500 482 500 482 500 482 502 482 502 482 532 497 542 499 552 495 584 482 584 482 586 482 586 482 586 482 589 482 589 482 591 482 638 495 661 499 703 495 794 480 794 480 797 480 958 480 958 480 958 480 960 480 960 480 960 480 980 490 995 497 1250 487 1258 554 1253 579 321 569"/></Shape>
+	    <String CONTENT="1° U pagamentu di tutt&#39;e pensione"
+                    HPOS="314"
+                    VPOS="480"
+                    WIDTH="944"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4b9cedf"
+                    TAGREFS="LT768"
+                    BASELINE="257 628 1258 623" 
+                    HPOS="247"
+                    VPOS="556"
+                    WIDTH="1011"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="257 628 247 576 294 559 297 559 297 559 297 559 299 559 485 571 522 574 527 571 547 561 547 561 547 561 549 561 549 561 549 561 552 561 552 561 606 571 634 574 693 569 827 556 827 556 829 556 829 556 829 556 871 566 898 571 1250 561 1258 623 1253 643 255 636"/></Shape>
+	    <String CONTENT="civile e militare. 2° U rispettu d’a"
+                    HPOS="247"
+                    VPOS="556"
+                    WIDTH="1011"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16780b09"
+                    TAGREFS="LT768"
+                    BASELINE="260 700 1250 697" 
+                    HPOS="255"
+                    VPOS="631"
+                    WIDTH="995"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="260 700 255 650 418 631 421 631 510 631 510 631 510 631 512 631 512 631 512 631 515 631 515 631 529 645 584 631 586 631 586 631 589 631 693 631 693 631 693 631 695 631 695 631 695 631 698 631 698 631 698 633 710 643 713 645 715 643 745 633 745 633 747 633 747 633 750 633 750 633 834 643 874 645 898 641 953 631 953 631 953 631 955 631 955 631 955 631 1000 641 1030 645 1243 638 1250 697 1245 710 386 710 260 722"/></Shape>
+	    <String CONTENT="pruprietà. 3° L’annistia pè i reati. 4°"
+                    HPOS="255"
+                    VPOS="631"
+                    WIDTH="995"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a6e61a4"
+                    TAGREFS="LT768"
+                    BASELINE="272 769 1258 769" 
+                    HPOS="272"
+                    VPOS="705"
+                    WIDTH="988"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="272 769 272 705 331 717 371 705 373 705 376 705 376 705 376 705 378 705 378 705 378 705 388 705 443 717 477 707 485 705 487 705 487 705 487 705 490 705 490 705 490 705 505 707 552 717 581 707 594 705 596 705 596 705 596 705 599 705 599 705 599 705 621 710 661 717 790 712 938 705 941 705 1258 720 1258 769 1260 784 1225 799 1225 799 1223 799 1223 799 1223 799 1220 799 1220 799 1131 787 1124 787 1119 787 1072 799 1069 799 1069 799 1067 799 824 792 661 787 611 794 584 799 584 799 581 799 581 799 547 796 470 787 403 799 391 799 391 799 388 799 388 799 388 799 386 799 383 799 346 787 272 799"/></Shape>
+	    <String CONTENT="U rispettu d’a nostra religione ecc."
+                    HPOS="272"
+                    VPOS="705"
+                    WIDTH="988"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1786"
+          HEIGHT="2949"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1786"
+                  HEIGHT="2949">
+        
+        <TextBlock HPOS="281"
+                   VPOS="588"
+                   WIDTH="1035"
+                   HEIGHT="1915"
+                   ID="eSc_textblock_08dc0296"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="281 588 281 1435 281 2503 1316 2503 1316 588"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7a2fbc50"
+                    TAGREFS="LT769"
+                    BASELINE="764 689 801 687 852 685" 
+                    HPOS="755"
+                    VPOS="599"
+                    WIDTH="96"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="762 688 762 700 848 700 851 683 838 599 797 614 755 607 762 688"/></Shape>
+	    <String CONTENT="III"
+                    HPOS="755"
+                    VPOS="599"
+                    WIDTH="96"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb448675"
+                    TAGREFS="LT769"
+                    BASELINE="637 786 966 791" 
+                    HPOS="632"
+                    VPOS="717"
+                    WIDTH="334"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="637 786 637 717 966 720 966 791 961 810 632 796"/></Shape>
+	    <String CONTENT="E tre virtù"
+                    HPOS="632"
+                    VPOS="717"
+                    WIDTH="334"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84ed3ee4"
+                    TAGREFS="LT768"
+                    BASELINE="361 892 1303 899" 
+                    HPOS="356"
+                    VPOS="818"
+                    WIDTH="947"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="361 892 356 835 386 823 386 823 388 823 388 823 388 823 391 823 583 835 600 835 602 835 649 818 649 818 651 818 651 818 654 818 654 818 809 835 838 838 942 838 944 835 964 820 966 820 966 820 966 820 969 820 969 820 969 820 971 820 1303 838 1303 899 1301 911 359 914"/></Shape>
+	    <String CONTENT="Quale sò e tre virtù d’u veru"
+                    HPOS="356"
+                    VPOS="818"
+                    WIDTH="947"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b62c16f"
+                    TAGREFS="LT768"
+                    BASELINE="305 963 543 963" 
+                    HPOS="305"
+                    VPOS="896"
+                    WIDTH="238"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="305 963 305 896 543 906 543 963 543 975 305 975"/></Shape>
+	    <String CONTENT="Corsu ?"
+                    HPOS="305"
+                    VPOS="896"
+                    WIDTH="238"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdb6ac35"
+                    TAGREFS="LT768"
+                    BASELINE="359 1029 1301 1041" 
+                    HPOS="354"
+                    VPOS="965"
+                    WIDTH="947"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="359 1029 361 965 420 980 511 968 543 965 543 965 546 965 546 965 548 965 548 965 560 970 590 983 617 970 624 968 624 968 627 968 627 968 627 968 629 968 629 968 632 968 632 968 632 968 634 968 634 968 639 973 651 983 701 973 733 968 733 968 733 968 735 968 735 968 738 968 765 975 794 983 809 975 821 970 821 970 821 970 824 970 824 970 826 970 826 970 826 970 870 978 924 987 949 980 961 975 961 975 964 975 964 975 966 975 966 975 969 975 969 975 984 980 1006 987 1033 983 1067 975 1067 975 1067 975 1070 975 1070 975 1072 975 1072 975 1094 983 1114 990 1141 985 1190 975 1190 975 1190 975 1193 975 1193 975 1301 990 1301 1041 1296 1056 354 1046"/></Shape>
+	    <String CONTENT="E tre virtù d’u veru Corsu sò : a"
+                    HPOS="354"
+                    VPOS="965"
+                    WIDTH="947"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_093de03e"
+                    TAGREFS="LT768"
+                    BASELINE="297 1103 1271 1110" 
+                    HPOS="292"
+                    VPOS="1044"
+                    WIDTH="979"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="297 1103 297 1044 1215 1044 1215 1044 1215 1044 1217 1044 1271 1059 1271 1110 1269 1120 1185 1135 1185 1135 1183 1135 1183 1135 1183 1135 1180 1135 1180 1135 1180 1135 1178 1135 1161 1123 1109 1135 1107 1135 1107 1135 1104 1135 1104 1135 959 1123 944 1123 934 1123 863 1132 863 1132 861 1132 861 1132 861 1132 858 1132 858 1132 858 1132 856 1132 856 1132 856 1130 848 1123 843 1120 792 1123 674 1132 671 1132 671 1132 671 1132 632 1125 600 1118 585 1125 573 1130 573 1130 573 1130 570 1130 570 1130 568 1130 292 1125"/></Shape>
+	    <String CONTENT="fede, a speranza e l’amor di patria."
+                    HPOS="292"
+                    VPOS="1044"
+                    WIDTH="979"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2e7e861"
+                    TAGREFS="LT768"
+                    BASELINE="359 1184 772 1189" 
+                    HPOS="354"
+                    VPOS="1118"
+                    WIDTH="418"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="359 1184 359 1118 769 1123 772 1189 767 1201 354 1199"/></Shape>
+	    <String CONTENT="Cos&#39;è a fede ?"
+                    HPOS="354"
+                    VPOS="1118"
+                    WIDTH="418"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7219703d"
+                    TAGREFS="LT768"
+                    BASELINE="354 1255 1298 1265" 
+                    HPOS="341"
+                    VPOS="1191"
+                    WIDTH="960"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="354 1255 351 1204 563 1191 565 1191 565 1191 568 1191 568 1191 568 1191 570 1191 590 1206 592 1206 607 1206 708 1194 708 1194 710 1194 710 1194 713 1194 713 1194 713 1194 715 1194 715 1194 715 1196 728 1206 728 1206 738 1206 998 1196 1001 1196 1001 1196 1001 1196 1003 1196 1003 1196 1006 1196 1006 1196 1023 1209 1264 1199 1266 1199 1266 1199 1266 1199 1269 1199 1269 1199 1301 1214 1298 1265 1293 1287 806 1272 762 1275 624 1282 622 1282 622 1282 622 1282 619 1282 619 1282 585 1270 585 1270 580 1270 364 1280 361 1280 361 1280 359 1280 359 1280 359 1280 356 1280 356 1280 356 1277 354 1277 341 1263"/></Shape>
+	    <String CONTENT="A certezza che noi avemu ne a Ri¬"
+                    HPOS="341"
+                    VPOS="1191"
+                    WIDTH="960"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f98a84ad"
+                    TAGREFS="LT768"
+                    BASELINE="295 1327 949 1334" 
+                    HPOS="290"
+                    VPOS="1258"
+                    WIDTH="659"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="295 1327 297 1258 327 1270 460 1263 504 1260 506 1260 506 1260 506 1260 509 1260 509 1260 509 1260 511 1260 511 1260 511 1263 514 1263 523 1272 632 1268 728 1263 730 1263 949 1277 949 1334 944 1356 290 1339"/></Shape>
+	    <String CONTENT="surrezione d’a Corsica."
+                    HPOS="290"
+                    VPOS="1258"
+                    WIDTH="659"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbccb938"
+                    TAGREFS="LT768"
+                    BASELINE="356 1410 1131 1415" 
+                    HPOS="349"
+                    VPOS="1344"
+                    WIDTH="782"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="356 1410 354 1356 570 1344 573 1344 769 1349 1050 1358 1126 1346 1131 1415 1129 1422 747 1435 745 1435 745 1435 654 1422 386 1432 383 1432 383 1432 383 1432 381 1432 381 1432 349 1417"/></Shape>
+	    <String CONTENT="Credite n’a risurrezione ?"
+                    HPOS="349"
+                    VPOS="1344"
+                    WIDTH="782"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21364d95"
+                    TAGREFS="LT768"
+                    BASELINE="351 1484 1296 1491" 
+                    HPOS="346"
+                    VPOS="1427"
+                    WIDTH="950"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="351 1484 349 1430 1293 1427 1296 1491 1291 1511 346 1503"/></Shape>
+	    <String CONTENT="Si, credu ind’a risurrezione d’a"
+                    HPOS="346"
+                    VPOS="1427"
+                    WIDTH="950"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c25a7f6"
+                    TAGREFS="LT768"
+                    BASELINE="297 1553 1298 1560" 
+                    HPOS="290"
+                    VPOS="1486"
+                    WIDTH="1008"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="297 1553 297 1486 472 1489 472 1489 472 1489 474 1489 474 1489 474 1489 477 1489 477 1489 477 1489 477 1491 492 1503 632 1494 632 1494 634 1494 634 1494 634 1494 723 1506 740 1494 742 1491 742 1491 745 1491 745 1491 745 1491 747 1491 747 1491 750 1491 821 1491 821 1491 821 1491 824 1491 846 1496 885 1511 1003 1511 1018 1501 1028 1494 1030 1494 1030 1494 1030 1494 1033 1494 1033 1494 1033 1494 1035 1494 1035 1494 1038 1494 1070 1501 1107 1511 1296 1508 1298 1560 1296 1575 1025 1585 1023 1585 865 1570 846 1570 841 1570 799 1582 797 1582 797 1582 797 1582 794 1582 612 1567 600 1567 592 1567 509 1580 509 1580 506 1580 506 1580 504 1580 450 1567 361 1580 361 1580 359 1580 359 1580 356 1580 290 1562"/></Shape>
+	    <String CONTENT="Corsica, per meritu nostru e per"
+                    HPOS="290"
+                    VPOS="1486"
+                    WIDTH="1008"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e32d7d7"
+                    TAGREFS="LT768"
+                    BASELINE="297 1629 688 1624" 
+                    HPOS="287"
+                    VPOS="1555"
+                    WIDTH="401"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="297 1629 287 1577 312 1558 312 1558 314 1558 314 1558 314 1558 317 1558 317 1558 317 1558 319 1558 319 1558 322 1558 376 1572 393 1558 393 1558 393 1558 396 1558 396 1558 398 1558 398 1558 398 1558 400 1558 400 1558 400 1558 464 1570 482 1555 482 1555 484 1555 484 1555 484 1555 487 1555 487 1555 487 1555 489 1555 683 1572 688 1624 688 1641 297 1646"/></Shape>
+	    <String CONTENT="grazia di Diu."
+                    HPOS="287"
+                    VPOS="1555"
+                    WIDTH="401"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8e0badb"
+                    TAGREFS="LT768"
+                    BASELINE="361 1710 1303 1710" 
+                    HPOS="361"
+                    VPOS="1636"
+                    WIDTH="942"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="361 1710 361 1636 519 1656 541 1641 543 1641 543 1641 543 1641 546 1641 546 1641 548 1641 548 1641 720 1656 801 1646 873 1636 875 1636 1006 1636 1006 1636 1006 1636 1008 1636 1008 1636 1008 1636 1038 1651 1050 1658 1303 1658 1303 1710 1303 1725 361 1734"/></Shape>
+	    <String CONTENT="Quandu averà lògu sta Risurre¬"
+                    HPOS="361"
+                    VPOS="1636"
+                    WIDTH="942"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d55f7e79"
+                    TAGREFS="LT768"
+                    BASELINE="300 1779 506 1774" 
+                    HPOS="295"
+                    VPOS="1707"
+                    WIDTH="211"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="300 1779 295 1715 393 1722 499 1707 506 1774 504 1801 300 1801"/></Shape>
+	    <String CONTENT="zione ?"
+                    HPOS="295"
+                    VPOS="1707"
+                    WIDTH="211"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2115f36"
+                    TAGREFS="LT768"
+                    BASELINE="354 1852 1301 1852" 
+                    HPOS="354"
+                    VPOS="1784"
+                    WIDTH="947"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="354 1852 354 1784 447 1798 482 1786 487 1784 487 1784 489 1784 489 1784 492 1784 627 1784 627 1784 627 1784 629 1784 644 1789 683 1801 801 1791 912 1784 915 1784 915 1784 915 1784 917 1784 954 1796 964 1798 971 1796 988 1789 988 1789 991 1789 991 1789 991 1789 993 1789 1166 1798 1198 1801 1200 1801 1217 1786 1217 1786 1220 1786 1220 1786 1220 1786 1222 1786 1222 1786 1225 1786 1225 1786 1225 1786 1301 1803 1301 1852 1301 1879 354 1879"/></Shape>
+	    <String CONTENT="Averà lògu secondu una vecchia"
+                    HPOS="354"
+                    VPOS="1784"
+                    WIDTH="947"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57dcefd7"
+                    TAGREFS="LT768"
+                    BASELINE="300 1921 1033 1926" 
+                    HPOS="297"
+                    VPOS="1865"
+                    WIDTH="736"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="300 1921 300 1865 1030 1870 1033 1926 1030 1938 297 1941"/></Shape>
+	    <String CONTENT="profezia (2) ne l’annu 1932."
+                    HPOS="297"
+                    VPOS="1865"
+                    WIDTH="736"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d43f813"
+                    TAGREFS="LT768"
+                    BASELINE="354 2005 895 2005" 
+                    HPOS="351"
+                    VPOS="1934"
+                    WIDTH="544"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="354 2005 354 1941 440 1951 460 1938 464 1934 464 1934 467 1934 467 1934 469 1934 469 1934 472 1934 523 1934 523 1934 523 1934 526 1934 526 1934 526 1934 528 1934 528 1936 531 1938 548 1953 605 1953 629 1936 632 1934 634 1934 634 1934 634 1934 637 1934 637 1934 637 1934 639 1934 639 1934 659 1936 762 1951 893 1934 895 2005 893 2022 351 2017"/></Shape>
+	    <String CONTENT="Cos&#39;è a speranza ?"
+                    HPOS="351"
+                    VPOS="1934"
+                    WIDTH="544"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acde516b"
+                    TAGREFS="LT768"
+                    BASELINE="351 2071 1298 2079" 
+                    HPOS="346"
+                    VPOS="2005"
+                    WIDTH="955"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="351 2071 349 2012 565 2005 568 2005 568 2005 570 2005 570 2005 570 2005 573 2005 587 2015 595 2020 605 2015 624 2007 624 2007 627 2007 627 2007 627 2007 629 2007 629 2007 686 2017 720 2022 752 2017 811 2007 811 2007 814 2007 814 2007 814 2007 816 2007 816 2007 816 2007 838 2020 843 2022 848 2020 865 2007 868 2007 868 2007 868 2007 870 2007 870 2007 873 2007 873 2007 873 2007 875 2007 875 2007 875 2007 878 2007 895 2020 897 2022 910 2020 966 2010 966 2010 966 2010 969 2010 969 2010 971 2010 971 2010 971 2010 974 2010 974 2010 974 2012 976 2012 984 2022 986 2027 1129 2027 1134 2024 1178 2010 1180 2010 1180 2010 1180 2010 1183 2010 1183 2010 1185 2010 1185 2010 1185 2010 1188 2010 1207 2024 1254 2012 1257 2012 1257 2012 1259 2012 1259 2012 1259 2012 1262 2012 1301 2027 1298 2079 1293 2098 346 2081"/></Shape>
+	    <String CONTENT="L’aspettazione di vede prestu ri¬"
+                    HPOS="346"
+                    VPOS="2005"
+                    WIDTH="955"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ed9c0e3"
+                    TAGREFS="LT768"
+                    BASELINE="290 2140 1298 2150" 
+                    HPOS="285"
+                    VPOS="2074"
+                    WIDTH="1013"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="290 2140 290 2088 469 2088 469 2088 499 2074 499 2074 499 2074 501 2074 501 2074 504 2074 504 2074 504 2074 506 2074 506 2074 543 2091 548 2091 555 2091 617 2076 617 2076 617 2076 619 2076 619 2076 720 2091 723 2091 725 2091 787 2076 789 2076 789 2076 792 2076 792 2076 792 2076 794 2076 794 2076 797 2076 797 2076 814 2088 897 2081 897 2081 900 2081 900 2081 902 2081 902 2081 902 2081 905 2081 924 2093 954 2079 954 2079 954 2079 956 2079 956 2079 959 2079 959 2079 959 2079 1043 2096 1052 2096 1072 2096 1230 2081 1230 2081 1232 2081 1232 2081 1234 2081 1298 2098 1298 2150 1293 2167 285 2152"/></Shape>
+	    <String CONTENT="sorge l’antiche libertà d’a Corsica."
+                    HPOS="285"
+                    VPOS="2074"
+                    WIDTH="1013"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c5e6dc4"
+                    TAGREFS="LT768"
+                    BASELINE="351 2224 1067 2231" 
+                    HPOS="344"
+                    VPOS="2169"
+                    WIDTH="723"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="351 2224 351 2169 1065 2169 1067 2231 1065 2243 376 2246 373 2246 373 2246 371 2246 371 2246 371 2246 344 2231"/></Shape>
+	    <String CONTENT="Cos&#39;è l’amor di patria ?"
+                    HPOS="344"
+                    VPOS="2169"
+                    WIDTH="723"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_214c90ff"
+                    TAGREFS="LT768"
+                    BASELINE="351 2295 1301 2305" 
+                    HPOS="349"
+                    VPOS="2233"
+                    WIDTH="952"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="351 2295 349 2241 639 2233 642 2233 642 2233 644 2233 644 2233 644 2233 646 2233 646 2233 656 2243 661 2248 765 2248 769 2246 799 2233 799 2233 801 2233 801 2233 801 2233 804 2233 804 2233 878 2246 895 2248 910 2246 993 2236 993 2236 996 2236 996 2236 996 2236 998 2236 998 2236 1025 2248 1028 2248 1028 2248 1060 2236 1060 2236 1062 2236 1062 2236 1062 2236 1065 2236 1301 2253 1301 2305 1298 2314 349 2317"/></Shape>
+	    <String CONTENT="L&#39;amore che ognunu di noi porta"
+                    HPOS="349"
+                    VPOS="2233"
+                    WIDTH="952"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df6c294b"
+                    TAGREFS="LT768"
+                    BASELINE="292 2366 1296 2373" 
+                    HPOS="287"
+                    VPOS="2302"
+                    WIDTH="1009"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="292 2366 297 2307 309 2317 344 2307 356 2305 359 2305 359 2305 361 2305 361 2305 364 2305 364 2305 373 2307 398 2317 413 2307 423 2302 425 2302 425 2302 428 2302 428 2302 428 2302 430 2302 430 2302 432 2302 432 2302 432 2302 447 2310 464 2317 482 2310 499 2302 499 2302 501 2302 501 2302 501 2302 504 2302 504 2302 558 2310 595 2317 602 2312 610 2305 610 2302 610 2302 612 2302 612 2302 612 2302 615 2302 615 2302 617 2302 617 2302 617 2302 619 2302 619 2302 619 2302 622 2302 622 2302 622 2305 632 2312 639 2319 728 2314 858 2305 861 2305 861 2305 861 2305 863 2305 900 2317 912 2319 956 2317 1119 2307 1121 2307 1121 2307 1121 2307 1124 2307 1124 2307 1126 2307 1126 2307 1143 2319 1143 2322 1296 2324 1296 2373 1293 2388 452 2393 450 2393 287 2378"/></Shape>
+	    <String CONTENT="nascendu pè a nostra vecchia e po¬"
+                    HPOS="287"
+                    VPOS="2302"
+                    WIDTH="1009"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffdabff3"
+                    TAGREFS="LT768"
+                    BASELINE="300 2435 1016 2440" 
+                    HPOS="295"
+                    VPOS="2378"
+                    WIDTH="721"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="300 2435 297 2386 1011 2378 1016 2440 1013 2459 797 2474 794 2474 794 2474 794 2474 792 2474 792 2474 789 2474 789 2474 767 2457 765 2457 752 2457 602 2467 600 2467 600 2467 600 2467 597 2467 597 2467 595 2467 595 2467 580 2455 580 2455 580 2455 541 2469 541 2469 538 2469 538 2469 536 2469 536 2469 536 2469 533 2469 487 2455 428 2467 428 2467 428 2467 425 2467 425 2467 295 2450"/></Shape>
+	    <String CONTENT="vera mamma : a Corsica !"
+                    HPOS="295"
+                    VPOS="2378"
+                    WIDTH="721"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

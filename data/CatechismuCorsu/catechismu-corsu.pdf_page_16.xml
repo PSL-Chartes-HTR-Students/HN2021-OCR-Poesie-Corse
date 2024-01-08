@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1785"
+          HEIGHT="2991"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1785"
+                  HEIGHT="2991">
+        
+        <TextBlock HPOS="952"
+                   VPOS="362"
+                   WIDTH="253"
+                   HEIGHT="74"
+                   ID="eSc_textblock_affde590"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="952 362 952 436 1201 436 1205 362"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f0ee19b6"
+                    TAGREFS="LT768"
+                    BASELINE="962 422 1081 422 1192 422" 
+                    HPOS="959"
+                    VPOS="363"
+                    WIDTH="232"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1059 363 1034 363 1029 363 1017 376 997 374 959 383 959 421 959 438 1191 431 1191 421 1189 363 1136 371 1116 368 1086 363 1084 363"/></Shape>
+	    <String CONTENT="– 14 –"
+                    HPOS="959"
+                    VPOS="363"
+                    WIDTH="232"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="520"
+                   VPOS="459"
+                   WIDTH="1067"
+                   HEIGHT="1702"
+                   ID="eSc_textblock_4333ecfc"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="520 459 520 2161 1587 2161 1587 459"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0f9b5b42"
+                    TAGREFS="LT768"
+                    BASELINE="558 535 1568 543" 
+                    HPOS="555"
+                    VPOS="466"
+                    WIDTH="1013"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="558 535 558 466 894 486 1161 486 1184 478 1224 468 1226 468 1226 468 1229 468 1229 468 1229 468 1231 468 1276 481 1296 486 1313 481 1348 471 1351 471 1351 471 1353 471 1353 471 1353 471 1421 483 1433 486 1438 483 1470 471 1470 471 1473 471 1473 471 1473 471 1475 471 1475 471 1478 471 1478 471 1478 471 1480 471 1500 486 1503 488 1568 488 1568 543 1565 553 897 563 894 563 894 563 892 563 852 550 847 550 555 550"/></Shape>
+	    <String CONTENT="inculta, u spopulamentu di l’Isula, e"
+                    HPOS="555"
+                    VPOS="466"
+                    WIDTH="1013"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b475629e"
+                    TAGREFS="LT768"
+                    BASELINE="558 603 1563 613" 
+                    HPOS="553"
+                    VPOS="540"
+                    WIDTH="1010"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="558 603 558 555 633 555 635 555 655 540 658 540 658 540 658 540 660 540 660 540 660 540 663 540 663 540 665 540 665 540 665 540 668 540 668 540 685 555 685 555 685 555 715 540 715 540 715 540 717 540 717 540 720 540 720 540 720 540 792 555 807 558 810 555 827 543 830 543 830 543 830 543 832 543 832 543 832 543 835 543 835 543 837 543 837 543 837 543 840 543 840 543 855 555 860 558 897 555 1012 548 1012 548 1014 548 1156 558 1214 560 1219 558 1231 545 1231 545 1234 545 1234 545 1234 545 1236 545 1236 545 1236 545 1239 545 1239 545 1241 545 1283 558 1293 560 1301 558 1326 548 1326 548 1328 548 1328 548 1328 548 1331 548 1560 560 1563 613 1560 655 1371 655 1368 653 1368 653 1366 653 1366 653 1358 650 1301 625 1104 638 1101 638 1101 638 1101 638 1099 638 1049 623 937 643 909 645 909 645 907 645 907 645 904 645 885 640 805 620 727 638 720 638 720 638 720 638 717 638 717 638 717 638 715 638 713 638 670 623 640 635 630 640 630 640 630 640 628 640 628 640 625 640 625 640 553 633"/></Shape>
+	    <String CONTENT="macchie dappertuttu, e l’emigrazio¬"
+                    HPOS="553"
+                    VPOS="540"
+                    WIDTH="1010"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5678bf8e"
+                    TAGREFS="LT768"
+                    BASELINE="560 672 1134 680" 
+                    HPOS="555"
+                    VPOS="615"
+                    WIDTH="579"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="560 672 560 615 1131 623 1134 680 1131 692 944 720 944 720 942 720 555 687"/></Shape>
+	    <String CONTENT="me in terra straniera."
+                    HPOS="555"
+                    VPOS="615"
+                    WIDTH="579"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1adabe53"
+                    TAGREFS="LT768"
+                    BASELINE="1040 753 1052 752 1081 751" 
+                    HPOS="1037"
+                    VPOS="712"
+                    WIDTH="42"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1039 752 1039 772 1062 772 1079 765 1079 750 1076 712 1037 712 1039 752"/></Shape>
+	    <String CONTENT="*"
+                    HPOS="1037"
+                    VPOS="712"
+                    WIDTH="42"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8277ae2"
+                    TAGREFS="LT768"
+                    BASELINE="989 776 1132 776" 
+                    HPOS="987"
+                    VPOS="746"
+                    WIDTH="144"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="989 810 1042 795 1064 802 1094 810 1096 810 1099 810 1101 810 1131 792 1131 775 1126 747 987 746 987 775"/></Shape>
+	    <String CONTENT="**"
+                    HPOS="987"
+                    VPOS="746"
+                    WIDTH="144"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d18e353"
+                    TAGREFS="LT768"
+                    BASELINE="618 854 1268 862" 
+                    HPOS="608"
+                    VPOS="785"
+                    WIDTH="663"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="618 854 613 797 658 785 660 785 660 785 663 785 663 785 752 797 770 785 770 785 772 785 772 785 775 785 775 785 775 785 777 785 777 785 887 800 892 800 899 800 979 787 979 787 979 787 982 787 1199 802 1236 790 1236 790 1239 790 1239 790 1241 790 1241 790 1241 790 1244 790 1244 790 1244 790 1271 805 1268 862 1266 872 640 879 638 879 638 879 635 879 635 879 635 879 633 879 608 864"/></Shape>
+	    <String CONTENT="Cos&#39;è u militarismu ?"
+                    HPOS="608"
+                    VPOS="785"
+                    WIDTH="663"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79955500"
+                    TAGREFS="LT768"
+                    BASELINE="618 927 1568 934" 
+                    HPOS="610"
+                    VPOS="862"
+                    WIDTH="958"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="618 927 618 867 770 874 782 869 790 862 792 862 792 862 792 862 795 862 795 862 797 862 924 862 924 862 924 862 927 862 962 872 984 877 1002 872 1022 864 1022 864 1024 864 1024 864 1027 864 1027 864 1027 864 1064 872 1084 877 1089 872 1099 864 1099 864 1101 864 1101 864 1101 864 1104 864 1104 864 1106 864 1219 864 1219 864 1219 864 1221 864 1221 864 1221 864 1244 874 1251 879 1298 877 1426 867 1428 867 1428 867 1565 882 1568 934 1565 947 1253 959 1251 959 927 944 645 954 643 954 643 954 640 954 640 954 640 954 610 939"/></Shape>
+	    <String CONTENT="U curaggiu d’i Corsi messu a u"
+                    HPOS="610"
+                    VPOS="862"
+                    WIDTH="958"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f9593e8"
+                    TAGREFS="LT768"
+                    BASELINE="555 994 1563 1006" 
+                    HPOS="553"
+                    VPOS="934"
+                    WIDTH="1010"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="555 994 555 934 944 934 944 934 944 934 947 934 947 934 967 942 979 947 1019 944 1091 937 1091 937 1094 937 1094 937 1151 947 1174 949 1211 947 1356 939 1358 939 1358 939 1358 939 1418 952 1421 952 1421 952 1490 942 1490 942 1493 942 1493 942 1493 942 1563 957 1563 1006 1560 1016 1368 1031 1366 1031 1366 1031 1253 1016 1249 1016 1244 1016 1161 1029 1161 1029 1159 1029 1159 1029 1009 1014 987 1014 553 1014"/></Shape>
+	    <String CONTENT="serviziu d’a Francia, e cusì sta na¬"
+                    HPOS="553"
+                    VPOS="934"
+                    WIDTH="1010"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a285b14"
+                    TAGREFS="LT768"
+                    BASELINE="555 1064 1560 1081" 
+                    HPOS="550"
+                    VPOS="1011"
+                    WIDTH="1010"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="555 1064 555 1011 1558 1029 1560 1081 1555 1099 550 1086"/></Shape>
+	    <String CONTENT="zione ha cunquistatu u so imperu"
+                    HPOS="550"
+                    VPOS="1011"
+                    WIDTH="1010"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61a1d6de"
+                    TAGREFS="LT768"
+                    BASELINE="555 1141 845 1136" 
+                    HPOS="553"
+                    VPOS="1071"
+                    WIDTH="292"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="555 1141 553 1076 613 1086 683 1079 772 1071 775 1071 775 1071 775 1071 840 1086 845 1136 842 1161 553 1156"/></Shape>
+	    <String CONTENT="culuniale."
+                    HPOS="553"
+                    VPOS="1071"
+                    WIDTH="292"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3998d0a0"
+                    TAGREFS="LT768"
+                    BASELINE="615 1218 1244 1226" 
+                    HPOS="610"
+                    VPOS="1146"
+                    WIDTH="636"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="615 1218 615 1146 1037 1168 1176 1168 1181 1166 1204 1154 1204 1154 1204 1154 1206 1154 1206 1154 1209 1154 1209 1154 1209 1154 1211 1154 1211 1154 1246 1168 1244 1226 1244 1238 1214 1253 1214 1253 1214 1253 1211 1253 1211 1253 1209 1253 1209 1253 1209 1253 1139 1241 1042 1253 1042 1253 1039 1253 610 1233"/></Shape>
+	    <String CONTENT="Cos&#39;è l&#39;emigrazione ?"
+                    HPOS="610"
+                    VPOS="1146"
+                    WIDTH="636"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e98f258c"
+                    TAGREFS="LT768"
+                    BASELINE="613 1288 1560 1301" 
+                    HPOS="608"
+                    VPOS="1231"
+                    WIDTH="952"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="613 1288 613 1231 1558 1246 1560 1301 1555 1316 608 1301"/></Shape>
+	    <String CONTENT="L&#39;abbandonu d’u paese fattu da i"
+                    HPOS="608"
+                    VPOS="1231"
+                    WIDTH="952"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31fc0271"
+                    TAGREFS="LT768"
+                    BASELINE="555 1363 1560 1373" 
+                    HPOS="548"
+                    VPOS="1301"
+                    WIDTH="1015"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="555 1363 555 1301 1333 1316 1368 1313 1525 1303 1528 1303 1528 1303 1528 1303 1530 1303 1530 1303 1563 1318 1560 1373 1555 1395 892 1390 892 1390 892 1390 820 1380 800 1378 767 1378 598 1388 595 1388 595 1388 595 1388 593 1388 548 1373"/></Shape>
+	    <String CONTENT="Corsi chi si ne scappanu, spinti d’a"
+                    HPOS="548"
+                    VPOS="1301"
+                    WIDTH="1015"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb311dfe"
+                    TAGREFS="LT768"
+                    BASELINE="553 1433 1558 1440" 
+                    HPOS="548"
+                    VPOS="1380"
+                    WIDTH="1010"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="553 1433 553 1380 1555 1388 1558 1440 1555 1455 1293 1468 1291 1468 548 1453"/></Shape>
+	    <String CONTENT="miseria, e cusì a terra corsa un pru¬"
+                    HPOS="548"
+                    VPOS="1380"
+                    WIDTH="1010"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b47b285d"
+                    TAGREFS="LT768"
+                    BASELINE="550 1502 1361 1515" 
+                    HPOS="545"
+                    VPOS="1435"
+                    WIDTH="816"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="550 1502 550 1435 623 1450 673 1438 678 1438 680 1438 680 1438 683 1438 683 1438 683 1438 698 1440 775 1453 912 1448 1004 1443 1007 1443 1007 1443 1009 1443 1009 1443 1009 1443 1027 1450 1042 1458 1136 1455 1286 1448 1288 1448 1288 1448 1288 1448 1358 1463 1361 1515 1356 1537 545 1525"/></Shape>
+	    <String CONTENT="duce che macchie e scogli...,"
+                    HPOS="545"
+                    VPOS="1435"
+                    WIDTH="816"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0e2e886"
+                    TAGREFS="LT768"
+                    BASELINE="618 1585 1563 1592" 
+                    HPOS="608"
+                    VPOS="1530"
+                    WIDTH="955"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="618 1585 618 1530 1563 1537 1563 1592 1560 1607 1249 1622 1246 1622 1246 1622 1126 1607 999 1620 999 1620 997 1620 997 1620 997 1620 924 1605 643 1617 640 1617 640 1617 638 1617 638 1617 638 1617 635 1617 608 1600"/></Shape>
+	    <String CONTENT="Qual&#39;è a causa di l’emigrazione ?"
+                    HPOS="608"
+                    VPOS="1530"
+                    WIDTH="955"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d73fc71"
+                    TAGREFS="LT768"
+                    BASELINE="610 1657 1558 1667" 
+                    HPOS="608"
+                    VPOS="1597"
+                    WIDTH="950"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="610 1657 610 1597 1558 1615 1558 1667 1555 1677 1423 1689 1421 1689 1421 1689 1331 1677 1318 1677 608 1677"/></Shape>
+	    <String CONTENT="A causa di l’emigrazione è a pu¬"
+                    HPOS="608"
+                    VPOS="1597"
+                    WIDTH="950"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d313d5ae"
+                    TAGREFS="LT768"
+                    BASELINE="548 1724 1558 1737" 
+                    HPOS="543"
+                    VPOS="1664"
+                    WIDTH="1015"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="548 1724 548 1664 1558 1679 1558 1737 1553 1749 543 1744"/></Shape>
+	    <String CONTENT="litica francese ed eccu u scoppu di"
+                    HPOS="543"
+                    VPOS="1664"
+                    WIDTH="1015"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb6eb672"
+                    TAGREFS="LT768"
+                    BASELINE="550 1797 1555 1809" 
+                    HPOS="548"
+                    VPOS="1732"
+                    WIDTH="1007"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="550 1797 550 1744 675 1744 675 1744 700 1732 700 1732 700 1732 703 1732 703 1732 703 1732 705 1732 705 1732 708 1732 708 1732 708 1732 710 1732 727 1744 810 1734 810 1734 812 1734 812 1734 899 1747 902 1747 904 1747 947 1734 949 1734 949 1734 952 1734 952 1734 952 1734 954 1734 954 1734 987 1749 992 1749 1009 1749 1141 1737 1144 1737 1144 1737 1144 1737 1146 1737 1146 1737 1146 1737 1149 1737 1149 1737 1149 1739 1161 1752 1164 1752 1179 1752 1288 1739 1288 1739 1291 1739 1291 1739 1293 1739 1293 1739 1293 1739 1296 1739 1296 1739 1311 1752 1348 1742 1351 1742 1351 1742 1351 1742 1353 1742 1553 1757 1555 1809 1553 1822 548 1822"/></Shape>
+	    <String CONTENT="sta pulitica : Spopulà a Corsica per"
+                    HPOS="548"
+                    VPOS="1732"
+                    WIDTH="1007"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_796fc8a3"
+                    TAGREFS="LT768"
+                    BASELINE="548 1866 1418 1876" 
+                    HPOS="543"
+                    VPOS="1802"
+                    WIDTH="875"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="548 1866 545 1817 668 1802 668 1802 670 1802 670 1802 670 1802 673 1802 673 1802 675 1802 675 1802 675 1802 690 1814 690 1817 695 1814 717 1807 717 1807 720 1807 720 1807 722 1807 722 1807 772 1814 805 1819 812 1814 825 1804 825 1804 827 1804 827 1804 827 1804 830 1804 830 1804 832 1804 927 1804 927 1804 927 1804 929 1804 957 1814 984 1822 1071 1812 1134 1807 1134 1807 1136 1807 1136 1807 1139 1807 1139 1807 1139 1807 1141 1807 1141 1807 1146 1812 1161 1822 1291 1812 1331 1809 1333 1809 1333 1809 1333 1809 1336 1809 1346 1812 1393 1824 1408 1812 1418 1876 1413 1894 543 1891"/></Shape>
+	    <String CONTENT="rendela schiava di più in più.."
+                    HPOS="543"
+                    VPOS="1802"
+                    WIDTH="875"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94bb9d01"
+                    TAGREFS="LT768"
+                    BASELINE="620 1951 1555 1959" 
+                    HPOS="615"
+                    VPOS="1886"
+                    WIDTH="940"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="620 1951 618 1899 770 1886 772 1886 772 1886 772 1886 832 1899 835 1899 835 1899 855 1886 857 1886 857 1886 860 1886 860 1886 860 1886 862 1886 862 1886 862 1886 919 1899 934 1901 947 1899 1002 1889 1002 1889 1002 1889 1004 1889 1004 1889 1004 1889 1054 1899 1064 1901 1071 1899 1124 1889 1124 1889 1124 1889 1126 1889 1126 1889 1126 1889 1129 1889 1129 1889 1156 1901 1161 1904 1553 1904 1555 1959 1553 1971 1343 1984 1341 1984 1341 1984 1341 1984 1293 1974 1281 1971 1278 1974 1263 1986 1263 1989 1263 1989 1261 1989 1261 1989 1261 1989 1258 1989 1258 1989 1256 1989 1256 1989 1256 1989 1186 1974 1159 1969 1139 1974 1106 1986 1106 1986 1104 1986 1104 1986 1104 1989 967 1989 964 1986 964 1986 962 1986 962 1986 962 1986 959 1986 944 1976 927 1966 870 1976 822 1984 822 1984 822 1986 820 1984 820 1984 775 1976 715 1966 695 1976 690 1981 688 1981 688 1981 685 1981 685 1981 685 1981 683 1981 615 1976"/></Shape>
+	    <String CONTENT="Quale sò e duie forme di l’emi¬"
+                    HPOS="615"
+                    VPOS="1886"
+                    WIDTH="940"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f383bdd"
+                    TAGREFS="LT768"
+                    BASELINE="553 2021 867 2021" 
+                    HPOS="548"
+                    VPOS="1956"
+                    WIDTH="319"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="553 2021 548 1974 588 1959 588 1959 590 1959 590 1959 593 1959 593 1959 595 1959 640 1971 648 1971 653 1971 710 1956 713 1956 713 1956 715 1956 715 1956 715 1956 765 1969 785 1971 865 1966 867 2021 867 2051 553 2051"/></Shape>
+	    <String CONTENT="grazione ?"
+                    HPOS="548"
+                    VPOS="1956"
+                    WIDTH="319"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f4fd52b"
+                    TAGREFS="LT768"
+                    BASELINE="615 2091 1548 2101" 
+                    HPOS="613"
+                    VPOS="2008"
+                    WIDTH="935"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="615 2091 615 2026 787 2033 800 2028 817 2021 817 2021 820 2021 820 2021 820 2021 822 2021 822 2021 825 2021 825 2021 825 2021 827 2021 837 2028 852 2038 919 2038 929 2031 959 2008 962 2008 962 2008 962 2008 964 2008 964 2008 967 2008 967 2008 1154 2028 1253 2011 1253 2011 1253 2011 1256 2011 1256 2011 1258 2011 1258 2011 1258 2011 1313 2038 1316 2038 1321 2038 1440 2013 1440 2013 1440 2013 1443 2013 1443 2013 1445 2013 1445 2013 1445 2013 1495 2041 1548 2043 1548 2101 1545 2136 1455 2158 1455 2158 1455 2158 1453 2158 1453 2158 1450 2158 1450 2158 1403 2141 1366 2158 1366 2158 1366 2158 1363 2158 1363 2158 1361 2158 1251 2156 1251 2156 1251 2156 1249 2156 1249 2156 1249 2156 1246 2156 1246 2156 1226 2138 1226 2138 1221 2138 1141 2156 1141 2156 1141 2156 1139 2156 994 2148 994 2148 994 2148 992 2148 992 2148 992 2148 989 2148 979 2141 967 2133 902 2133 892 2141 880 2151 880 2153 880 2153 877 2153 877 2153 877 2153 875 2153 875 2153 872 2153 745 2151 745 2151 745 2151 742 2151 742 2151 742 2151 740 2151 727 2141 710 2131 613 2141"/></Shape>
+	    <String CONTENT="U funziunarismu e u militarismu.."
+                    HPOS="613"
+                    VPOS="2008"
+                    WIDTH="935"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

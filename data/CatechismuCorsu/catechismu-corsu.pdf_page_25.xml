@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>catechismu-corsu.pdf_page_25.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1908" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1910" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1911" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT768" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT769" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1789"
+          HEIGHT="2955"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1789"
+                  HEIGHT="2955">
+        
+        <TextBlock HPOS="632"
+                   VPOS="317"
+                   WIDTH="299"
+                   HEIGHT="92"
+                   ID="eSc_textblock_ded5f72b"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="632 317 632 409 931 409 931 317"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6a8b6787"
+                    TAGREFS="LT768"
+                    BASELINE="650 386 908 381" 
+                    HPOS="645"
+                    VPOS="297"
+                    WIDTH="261"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="648 384 648 396 906 386 906 379 899 315 813 315 800 310 768 297 766 297 763 297 645 305 648 384"/></Shape>
+	    <String CONTENT="– 23 –"
+                    HPOS="645"
+                    VPOS="297"
+                    WIDTH="261"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="258"
+                   VPOS="428"
+                   WIDTH="1019"
+                   HEIGHT="175"
+                   ID="eSc_textblock_46e6f45c"
+                   TAGREFS="BT1908">
+          <Shape><Polygon POINTS="258 428 258 603 1005 603 1277 603 1277 428"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_87233e7d"
+                    TAGREFS="LT768"
+                    BASELINE="273 509 1256 494" 
+                    HPOS="268"
+                    VPOS="421"
+                    WIDTH="988"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="273 509 268 440 1030 440 1121 423 1123 423 1123 423 1126 423 1126 423 1126 423 1128 423 1182 435 1249 421 1256 494 1256 507 273 531"/></Shape>
+	    <String CONTENT="lu chi ci dede una cuscienza naziu¬"
+                    HPOS="268"
+                    VPOS="421"
+                    WIDTH="988"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d58f5c31"
+                    TAGREFS="LT768"
+                    BASELINE="280 578 413 573" 
+                    HPOS="275"
+                    VPOS="524"
+                    WIDTH="138"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="280 578 275 524 409 529 413 573 413 588 280 608"/></Shape>
+	    <String CONTENT="nale."
+                    HPOS="275"
+                    VPOS="524"
+                    WIDTH="138"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,5 +1,7 @@
 # Projet d'OCR d'une poésie corse
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
 [![DOI](https://zenodo.org/badge/434214989.svg)](https://zenodo.org/badge/latestdoi/434214989)
 
 L'objectif de ce travail est d'océriser un receuil de poème corse d'une quarantaine de pages.
@@ -11,7 +13,7 @@ Il s'agit d'un devoir réalisé dans le cadre du cours de Thibault Clérice réa
 
 # Données
 
-Les vérités de terrains se trouvent au chemin UNIX `./Transcriptions/**/data/*.xml`.
+Les vérités de terrains se trouvent au chemin UNIX `./data/**/*.xml`.
 
 # Description des oeuvres
 
@@ -29,3 +31,7 @@ Bien qu'il ne s'agisse pas réellement d'un recueil de poèmes, le style d'écri
 
 Alors que le premier ouvrage a été trouvé sur `gallica`, le second a été téléchargé depuis la plateforme `bucullezzione` de l'Università di Corsica Pasquale Paoli. 
 Il n'est donc disponible qu'en format PDF à l'inverse de *Pontenôvu* disponible en IIIF.
+
+# Corrections
+
+Lourdes corrections + adaptation segmonto: Simon Gabay
